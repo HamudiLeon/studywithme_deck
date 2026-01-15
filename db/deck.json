@@ -51,10 +51,10 @@
                 "order": 1,
                 "perDay": 2000
             },
-            "newGatherPriority": 0,
-            "newMix": 0,
+            "newGatherPriority": 5,
+            "newMix": 2,
             "newPerDayMinimum": 0,
-            "newSortOrder": 0,
+            "newSortOrder": 3,
             "questionAction": 0,
             "replayq": true,
             "rev": {
@@ -99,6 +99,7 @@
         "1000_F_748191147_1Aw2tnxuoIUbxj18WbdcxfBqtbB73NoA.jpg",
         "100129_4X.gif",
         "100749-1page_7.webp",
+        "103460-1page_16.webp",
         "103460-1page_19.webp",
         "10815_2024_3354_Fig2_HTML.png",
         "10974_2009_9189_Fig1_HTML.gif",
@@ -142,6 +143,7 @@
         "2hc88me.jpg",
         "2nd-week-pregnancy-chorion-cytotrophoblast-600nw-2483078025.jpg",
         "3-s2.0-B0123411033002497-gr2.jpg",
+        "3-s2.0-B9780123704580500098-f04-09-9780123704580.jpg",
         "3-s2.0-B9780123704580500104-f05-01-9780123704580.jpg",
         "3-s2.0-B9780123704580500128-f07-11-9780123704580.jpg",
         "3-s2.0-B9780123749475000079-f07-04-9780123749475.jpg",
@@ -162,6 +164,7 @@
         "3-s2.0-B9780128012383646858-f64685-01-9780128118993.jpg",
         "3-s2.0-B9780128012383658099-f65809-01-9780128012383.jpg",
         "3-s2.0-B9780128024089000016-f01-36-9780128024089.jpg",
+        "3-s2.0-B9780128138144000109-f10-01-9780128138144.jpg",
         "3-s2.0-B9780128158449000129-f12-27-9780128158449.jpg",
         "3-s2.0-B9780128194607002553-f00255-04-9780128194607.jpg",
         "3-s2.0-B9780128234211000044-f02-04-9780128234211.jpg",
@@ -212,6 +215,7 @@
         "Allantois.webp",
         "ApicalEctodermalRidge.png",
         "B9781455727940000073_f007-005-9781455727940.jpg",
+        "B9781455727940000103_f010-021-9781455727940.jpg",
         "B9788131223079500036_gr3.jpg",
         "BSL_Cell_Junction.en.png",
         "Bildschirmfoto 2025-12-27 um 10.04.00.png",
@@ -230,6 +234,8 @@
         "Blausen_0803_Skin_FreeNerveEndings.png",
         "Blausen_0863_ToothAnatomy_02.png",
         "C0184681.jpg",
+        "Cell-cycle-.jpg",
+        "CellCycleCheckpoints.png",
         "Centrioles-Diagram-and-Functions.png",
         "Centrioles.jpeg",
         "Centrosome.jpg",
@@ -297,6 +303,8 @@
         "Muscle_spindle_model.jpg",
         "NLB110-lockandkey_estriolandestrogenreceptor_.png",
         "NM032b.jpg",
+        "Neural-crest-cells-epithelial-mesenchymal-transition-delamination-migration-concept.png",
+        "Neural-tube-closure-and-patterning-A-Dorsal-views-of-forming-neural-tube-in-the.jpg",
         "Neural_crest.svg",
         "Neuro1.gif",
         "Neuro2.gif",
@@ -318,6 +326,7 @@
         "Sarcomere-Structure-Actin-and-Myosin.jpg",
         "Sarcomere.gif",
         "Sarcomere.svg",
+        "Schematic-representation-of-the-co-translational-translocation-of-a-polytopic-membrane.png",
         "Screen_Shot_2019-01-08_at_11.58.48_AM.png",
         "Screenshot_160.png",
         "Sex-chromatin-or-barr-bodies-1-2048.jpg",
@@ -329,6 +338,7 @@
         "Structure-of-Peroxisomes.jpg",
         "Structure-of-Sarcomere.jpeg",
         "Testis_histology_2.jpg",
+        "The-signal-recognition-particle-SRP-ribosome-cycle-A-pathway-for-mRNA-partitioning-to.png",
         "Trilaminar_Embryo_Draft_1-2.png",
         "Tubulin_Infographic.jpg",
         "U3.cp3.3_nrm2663-f1.jpg",
@@ -354,6 +364,7 @@
         "brownfat1.jpg",
         "bzidofnn7g.jpg",
         "cardiomyocytes.jpg",
+        "cell_cycle_s_phase_haploid_diploid_cells1.jpg",
         "cells-09-02073-g001.png",
         "cells-ovum-collection-signals-human-development-stages.jpg",
         "centriolo-cuerpo-basal.png",
@@ -403,10 +414,12 @@
         "fibrocartilage-976.png",
         "file-63836e9ad3832.jpg",
         "file-63ab5fea5e671.jpg",
+        "fmedt-02-600616-g001.jpg",
         "fncel-17-1248922-g001.jpg",
         "fphar-16-1610623-g001.jpg",
         "gametes-sexual-haploid-to-haploid-zygote-diploid.png",
         "germ-layer-derivatives.jpg",
+        "germ_layer_derivatives-142F8FE6BDF74E305D3.png",
         "getimage.php",
         "glycocalyx-definition-and-example.jpg",
         "how-gastrulation-works.png",
@@ -471,6 +484,7 @@
         "overview-of-osteoblast.png",
         "ovum-anatomy-vector-illustration-isolated-600nw-1683573553.jpg",
         "paste-0133d001d6e3057d3a0b1082905c06d9814d21cd.jpg",
+        "paste-03419aff06a7998b752f8fcfc2fe402bcc404bf2.jpg",
         "paste-04d34f6914070c6482cbfb701643a056644540cd.jpg",
         "paste-05cd91f91ae56656215bae3a1bddb011874e512b.jpg",
         "paste-09a7b95704ed935d72f15cbf4d205f5c8b3d8332.jpg",
@@ -486,17 +500,20 @@
         "paste-1d399f9e8fa278697b70fcbb508ff12ae751fdca.jpg",
         "paste-1d783bff145678f695a6551307fb4a9d08ee4447.jpg",
         "paste-1ecfd9a6a1e87803b134e1b3d72110724111a750.jpg",
+        "paste-1f3c63ea5bdae87b89b395810a9783359ec40b00.jpg",
         "paste-1f895f417b63bf1d73aa1a1879bdc9f0a2fe3951.jpg",
         "paste-20196d8b09b4efdb2d897af40d1d5b8cbdf5ecf1.jpg",
         "paste-204cddb94c9d0ccadd5969ff4d764ed541f003be.jpg",
         "paste-209b883ca1cdf3b42ecada10d66360cec7bfbb66.jpg",
         "paste-2321f683f16f683264c3827802b8b4d1c95b19e6.jpg",
         "paste-23c319162f56acb104617887d5d7024945ed3e08.jpg",
+        "paste-2849383f2b5e6c914458bee461887650e6d92df6.jpg",
         "paste-2b08fdda56b96d0ea2e5e6e31a946cd1b7fe740c.jpg",
         "paste-2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a.gif",
         "paste-2f6f8933f1d24194f23da2608be8c3d00eee8b77.jpg",
         "paste-310852c852c2682197bc7f1276d1c6d10e87e9b4.jpg",
         "paste-31c99c2b09db3fa251ceeae157bf5dea00b4e1ba.jpg",
+        "paste-33f707fd1e18834afd6c9d098f70a93fcbb6eb04.jpg",
         "paste-35c8beacd8d9a6c8ff2f1fb981e0a34ecef42b84.jpg",
         "paste-35d89523113d76d3e838c35f065e26d2d758bbed.jpg",
         "paste-367fec59207e263cc2d98c8013c35dfa99fcf86b.jpg",
@@ -504,6 +521,7 @@
         "paste-3d2b6351df272b1c30747ee530fb8d206b74f6ab.jpg",
         "paste-3d48ab31d7d3f55d94e2697141abf6f8e22b3673.jpg",
         "paste-3f4d1066ec48aa86f960a81377f8bf04eb3f8d14.jpg",
+        "paste-3f9abe265f8855d7068e4053a964e21943afd22c.jpg",
         "paste-3fc54a2c0f20a26888954672325855b781b86d1d.jpg",
         "paste-41d7f881e500d741fe42c88324003cec28b9df4e.jpg",
         "paste-432bc051b1ed70b4c82adbaf2be98bb038697d17.jpg",
@@ -512,6 +530,7 @@
         "paste-4789cc97253a5f4b20bd410129d21b91aa1e1e87.jpg",
         "paste-48526430b61cea543ba0d4fda9f32f99c5ad5826.jpg",
         "paste-4b26d4f5997a058ea3bd5314ea4345e0e65be6df.jpg",
+        "paste-4d2a95110e50d986b308479bdea6583aded27962.jpg",
         "paste-4da190c276708b2507614c81cf33396747f62e29.jpg",
         "paste-4f9d3327220b892ee154d21169e428373704f389.jpg",
         "paste-535e8443d5168026aa1de0fe5a89855c455c73f0.jpg",
@@ -2145,7 +2164,9 @@
             "guid": "joMnPy5#]g",
             "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
             "tags": [
-                "hematopoeisis"
+                "CYTOLOGY",
+                "hematopoeisis",
+                "S01::CHGE::EXAM"
             ]
         },
         {
@@ -2216,8 +2237,8 @@
                 "Only a common chorion",
                 "Only a common placenta",
                 "Only a common chorionic cavity",
-                "",
-                "E. Common amnion, chorion, and placenta",
+                "Common amnion, chorion, and placenta",
+                "E. ",
                 "<img alt=\"Twins - Lozier Institute\" src=\"development-of-twins-1.jpg\" width=\"906\"><br><h3>🧠 Mechanism / reasoning (high-yield logic)</h3>\n<div>Use the <strong>time-of-splitting rule</strong>:</div>\n<div><strong>1) Split at 0–3 days (morula stage)</strong></div>\n<ul>\n<li>\n<div>Dichorionic, diamniotic</div>\n</li>\n<li>\n<div>Two chorions, two amnions</div>\n</li>\n<li>\n<div>Placentas may be separate or fused</div>\n</li>\n</ul>\n<div><strong>2) Split at 4–8 days (blastocyst stage)</strong></div>\n<ul>\n<li>\n<div><strong>Monochorionic, diamniotic</strong></div>\n</li>\n<li>\n<div>One chorion → <strong>one chorionic cavity</strong></div>\n</li>\n<li>\n<div>Two amniotic sacs</div>\n</li>\n</ul>\n<div><strong>3) Split at 8–13 days (after amnion formation)</strong></div>\n<ul>\n<li>\n<div>Monochorionic, monoamniotic</div>\n</li>\n<li>\n<div>Shared chorion and shared amnion</div>\n</li>\n</ul>\n<div><strong>4) Split after 13 days</strong></div>\n<ul>\n<li>\n<div>Incomplete separation → conjoined twins</div>\n</li>\n</ul>\n<div>➡️ <strong>Therefore:</strong> monozygotic twins <em>may</em> have <strong>only one shared chorionic cavity</strong>.</div>\n\n<h3>🩺 Clinical integration (first-doctor perspective)</h3>\n<ul>\n<li>\n<div><strong>Monochorionic twins</strong> → risk of <strong>twin-to-twin transfusion syndrome (TTTS)</strong> due to shared placental circulation</div>\n</li>\n<li>\n<div><strong>Monoamniotic twins</strong> → risk of <strong>umbilical cord entanglement</strong></div>\n</li>\n<li>\n<div>Early ultrasound assessment of <strong>chorionicity</strong> is critical in obstetrics</div>\n</li>\n</ul>\n\n<h3>❌ Why the other options are not correct</h3>\n<div><strong>A. Only a common amnion</strong><br>\nIf twins share an amnion, they must also share the chorion. “Only” is incorrect.</div>\n<div><strong>B. Only a common chorion</strong><br>\nA shared chorion automatically means a <strong>shared chorionic cavity</strong>. This option is incomplete.</div>\n<div><strong>C. Only a common placenta</strong><br>\nPlacental fusion can occur even in dichorionic twins. Placenta alone does <strong>not</strong> define zygosity or membrane pattern.</div>\n\n<h3>⭐ Exam gold (high-yield takeaway)</h3>\n<ul>\n<li>\n<div><strong>Chorion → chorionic cavity</strong></div>\n</li>\n<li>\n<div><strong>Monochorionic = one chorionic cavity</strong></div>\n</li>\n<li>\n<div>The word <strong>“only”</strong> is a classic exam trap</div></li></ul>",
                 "",
                 ""
@@ -3185,26 +3206,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Microfilaments?",
-                "Actin (G-actin/F-actin)",
-                "Consist of globular actin monomers forming a double helix",
-                "Keratin",
-                "Tubulin",
-                "",
-                "B. Consist of globular actin monomers forming a double helix",
-                "<b>Question</b><br>Microfilaments?<br><br><b>Correct answer:</b> B — Consist of globular actin monomers forming a double helix<br><br><b>Core idea (exam focus)</b><br>Cytoskeletal elements have distinct proteins, structures, and functions.<br><br><b>Mechanism / reasoning</b><br><ul><li>Match the structure/function in the stem to the correct cytoskeletal component.</li><li>Exclude options that belong to a different filament system (actin vs tubulin vs intermediate filaments).</li></ul><br><b>Why the other options are not</b><br><ul><li><b>A:</b> This option does not match the defining feature tested in the stem.</li><li><b>C:</b> This option does not match the defining feature tested in the stem.</li><li><b>D:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Microtubules=tubulin (13 protofilaments), microfilaments=actin, intermediate filaments=keratin/lamins.",
-                "",
-                ""
-            ],
-            "guid": "EgUB%UX^$_",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "CYTOLOGY"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Which of the following statements regarding the Golgi Complex is true?",
                 "ATP synthesis",
                 "It is the site of protein glycosylation",
@@ -3406,7 +3407,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Which of the following statements about cell matrix functions are true?",
+                "Which of the following statements about cell matrix functions are NOT true?",
                 "Lysosomes contain a large variety of hydrolytic enzymes",
                 "Lysomsomal enzymes digest macromolecules and foreign material",
                 "The optima pH of lysosomal digestion is pH 8",
@@ -3594,7 +3595,7 @@
                 "Secretory Proteins",
                 "",
                 "D. Se- cretory Proteins",
-                "<b>Question</b><br>Signal recognition particle/SR receptors are required for the translocation of..?<br><br><b>Correct answer:</b> D — Se- cretory Proteins<br><br><b>Core idea (exam focus)</b><br>Use core definitions and exclusions in the stem to eliminate distractors.<br><br><b>Mechanism / reasoning</b><br><ul><li>Use the key word in the stem (NOT, EXCEPT) to decide the direction of selection.</li><li>Pick the option that best matches the definition given by the course terminology.</li></ul><br><b>Why the other options are not</b><br><ul><li><b>A:</b> This option does not match the defining feature tested in the stem.</li><li><b>B:</b> This option does not match the defining feature tested in the stem.</li><li><b>C:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Read the stem direction: NOT / EXCEPT flips the selection.",
+                "<h3><strong>Correct answer:</strong> <strong>D. Secretory proteins</strong></h3>\n<div><div><div><img alt=\"https://www.researchgate.net/publication/7436962/figure/fig1/AS%3A601783726530597%401520487829913/The-signal-recognition-particle-SRP-ribosome-cycle-A-pathway-for-mRNA-partitioning-to.png\" src=\"The-signal-recognition-particle-SRP-ribosome-cycle-A-pathway-for-mRNA-partitioning-to.png\"></div></div><div><div><img alt=\"https://www.researchgate.net/publication/259675856/figure/fig5/AS%3A614299403812882%401523471799847/Schematic-representation-of-the-co-translational-translocation-of-a-polytopic-membrane.png\" src=\"Schematic-representation-of-the-co-translational-translocation-of-a-polytopic-membrane.png\"></div></div><div><div><img alt=\"https://ars.els-cdn.com/content/image/3-s2.0-B9780123704580500098-f04-09-9780123704580.jpg\" src=\"3-s2.0-B9780123704580500098-f04-09-9780123704580.jpg\"></div></div></div>\n\n<h2>Phase 1 — Core (WHY first)</h2>\n<h3>WHY SRP/SR receptor are required for <strong>secretory proteins</strong></h3>\n<div><strong>Mechanism (stepwise):</strong></div>\n<ol>\n<li>\n<div>Translation starts on a <strong>free ribosome</strong> in the cytosol</div>\n</li>\n<li>\n<div>A <strong>signal peptide</strong> emerges from the nascent polypeptide</div>\n</li>\n<li>\n<div><strong>SRP (signal recognition particle)</strong> binds the signal peptide<br>\n→ <strong>pauses translation</strong></div>\n</li>\n<li>\n<div>The SRP–ribosome complex docks to the <strong>SRP receptor</strong> on the <strong>rough ER</strong></div>\n</li>\n<li>\n<div>Ribosome transfers to the <strong>translocon (Sec61)</strong></div>\n</li>\n<li>\n<div>Translation resumes → protein enters the <strong>ER lumen or membrane</strong></div>\n</li>\n</ol>\n<blockquote>\n<div>This is <strong>co-translational translocation</strong>, mandatory for secretory proteins.</div>\n</blockquote>\n\n<h2>WHY the other options are wrong</h2>\n<h3><strong>A. Exocytosis</strong> ❌</h3>\n<ul>\n<li>\n<div>Exocytosis is a <strong>vesicular transport process</strong></div>\n</li>\n<li>\n<div>Does <strong>not</strong> require SRP or SR receptor</div>\n</li>\n</ul>\n<h3><strong>B. Meiosis</strong> ❌</h3>\n<ul>\n<li>\n<div>Nuclear division process</div>\n</li>\n<li>\n<div>No involvement of ER targeting machinery</div>\n</li>\n</ul>\n<h3><strong>C. Endothelial cells</strong> ❌</h3>\n<ul>\n<li>\n<div>Cell type, not a translocation substrate</div>\n</li>\n</ul>\n\n<h2>Phase 2 — Active Drill</h2>\n<h3>Rapid discriminator</h3>\n<div>If the question mentions:</div>\n<ul>\n<li>\n<div><strong>Signal peptide</strong></div>\n</li>\n<li>\n<div><strong>Rough ER</strong></div>\n</li>\n<li>\n<div><strong>Co-translational targeting</strong></div>\n</li>\n</ul>\n<div>→ <strong>SRP → Secretory proteins</strong></div>\n\n<h3>Feynman probe</h3>\n<div>Why must translation pause when SRP binds?</div>\n<blockquote>\n<div>To prevent premature folding of the protein in the cytosol and allow correct ER targeting.</div>\n</blockquote>\n\n<h2>Phase 3 — Anchors</h2>\n<h3>One-line rule (exam-safe)</h3>\n<blockquote>\n<div><strong>SRP targets proteins with signal peptides to the rough ER.</strong></div>\n</blockquote>\n<h3>Classic exam trap</h3>\n<ul>\n<li>\n<div>“Proteins are synthesized on rough ER ribosomes” ❌<br>\n<strong>Correction:</strong> All translation starts on <strong>free ribosomes</strong>; SRP redirects them.</div></li></ul>",
                 "",
                 ""
             ],
@@ -4072,13 +4073,13 @@
             "__type__": "Note",
             "fields": [
                 "Which of the following about the plasma membrane is not true?",
-                "It maintains the negative charge of the cell surface",
+                "It contains filaments and microtubules",
                 "Cholesterol helps regulate the fluidity of the membrane.",
-                "Nucleic acids serve as structural scaffolding within the bilayer.",
+                "It is selectively permeable",
                 "Peripheral proteins are loosely attached to the membrane surface.",
                 "",
                 "A. It maintains the negative charge of the cell surface",
-                "<b>Question</b><br>Which of the following about the plasma membrane is not true?<br><br><b>Correct answer:</b> A — It maintains the negative charge of the cell surface<br><br><b>Core idea (exam focus)</b><br>Use core definitions and exclusions in the stem to eliminate distractors.<br><br><b>Mechanism / reasoning</b><br><ul><li>Use the key word in the stem (NOT, EXCEPT) to decide the direction of selection.</li><li>Pick the option that best matches the definition given by the course terminology.</li></ul><br><b>Why the other options are not</b><br><ul><li><b>B:</b> This option does not match the defining feature tested in the stem.</li><li><b>C:</b> This option does not match the defining feature tested in the stem.</li><li><b>D:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Read the stem direction: NOT / EXCEPT flips the selection.",
+                "<b>Question</b><br>Which of the following about the plasma membrane is not true?<br><br><b>Correct answer:</b> A — It contains filaments and microtubules<br><br><b>Core idea (exam focus)</b><br>Use core definitions and exclusions in the stem to eliminate distractors.<br><br><b>Mechanism / reasoning</b><br><ul><li>Use the key word in the stem (NOT, EXCEPT) to decide the direction of selection.</li><li>Pick the option that best matches the definition given by the course terminology.</li></ul><br><b>Why the other options are not</b><br><ul><li><b>B:</b> This option does not match the defining feature tested in the stem.</li><li><b>C:</b> This option does not match the defining feature tested in the stem.</li><li><b>D:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Read the stem direction: NOT / EXCEPT flips the selection.",
                 "",
                 ""
             ],
@@ -4317,26 +4318,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Which of the following is not a function of EPR?",
-                "Intermediate filaments (keratin)",
-                "Dynein",
-                "Microtubule organiser",
-                "Microtubules",
-                "",
-                "C. Microtubule organiser",
-                "<b>Question</b><br>Which of the following is not a function of EPR?<br><br><b>Correct answer:</b> C — Microtubule organiser<br><br><b>Core idea (exam focus)</b><br>Cytoskeletal elements have distinct proteins, structures, and functions.<br><br><b>Mechanism / reasoning</b><br><ul><li>Match the structure/function in the stem to the correct cytoskeletal component.</li><li>Exclude options that belong to a different filament system (actin vs tubulin vs intermediate filaments).</li></ul><br><b>Why the other options are not</b><br><ul><li><b>A:</b> This option does not match the defining feature tested in the stem.</li><li><b>B:</b> This option does not match the defining feature tested in the stem.</li><li><b>D:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Microtubules=tubulin (13 protofilaments), microfilaments=actin, intermediate filaments=keratin/lamins.",
-                "",
-                ""
-            ],
-            "guid": "suSObX/4y+",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "CYTOLOGY"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Major mitochondrial functions are all true except?",
                 "ATP synthase",
                 "Proton gradient",
@@ -4393,26 +4374,6 @@
             "tags": [
                 "CYTOLOGY",
                 "S01::CHGE::EXAM"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the main components of the nucleus?",
-                "All answers are correct",
-                "Mitosis",
-                "Exocytosis",
-                "Adipocytes",
-                "",
-                "A. All answers are correct",
-                "<b>Question</b><br>What are the main components of the nucleus?<br><br><b>Correct answer:</b> A — All answers are correct<br><br><b>Core idea (exam focus)</b><br>Use core definitions and exclusions in the stem to eliminate distractors.<br><br><b>Mechanism / reasoning</b><br><ul><li>Use the key word in the stem (NOT, EXCEPT) to decide the direction of selection.</li><li>Pick the option that best matches the definition given by the course terminology.</li></ul><br><b>Why the other options are not</b><br><ul><li><b>B:</b> This option does not match the defining feature tested in the stem.</li><li><b>C:</b> This option does not match the defining feature tested in the stem.</li><li><b>D:</b> This option does not match the defining feature tested in the stem.</li></ul><br><b>Exam gold (high-yield)</b><br>Read the stem direction: NOT / EXCEPT flips the selection.",
-                "",
-                ""
-            ],
-            "guid": "t7N&&#j00R",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "CYTOLOGY"
             ]
         },
         {
@@ -5088,14 +5049,16 @@
                 "They contain a hyalomere and granulomere",
                 "",
                 "C",
-                "Hemoglobin is specific to erythrocytes; platelets contain no hemoglobin.",
+                "<div><strong>Correct answer:</strong> <strong>A — They contain hemoglobin</strong></div>\n\n<h3>📌 Core idea (MU Varna exam focus)</h3>\n<div><strong>Platelets are cytoplasmic fragments of megakaryocytes</strong>, not true cells, and <strong>do not contain hemoglobin</strong>. Hemoglobin is exclusive to erythrocytes.</div>\n\n<h3>🧠 Mechanism / reasoning</h3>\n<div>Platelet structure is classically divided into zones:</div>\n<ul>\n<li>\n<div><strong>Hyalomer (peripheral zone)</strong></div>\n<ul>\n<li>\n<div>Clear outer zone</div>\n</li>\n<li>\n<div>Contains microtubules and actin filaments</div>\n</li>\n<li>\n<div>Responsible for platelet shape and contractility</div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Granulomer (central zone)</strong></div>\n<ul>\n<li>\n<div>Contains α-granules, dense granules, lysosomes</div>\n</li>\n<li>\n<div>Stores clotting factors, serotonin, ADP, Ca²⁺</div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Open canalicular system (OCS)</strong></div>\n<ul>\n<li>\n<div>Invaginations of the plasma membrane</div>\n</li>\n<li>\n<div>Increases surface area</div>\n</li>\n<li>\n<div>Allows rapid release of granule contents during activation</div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Hemoglobin</strong>, in contrast:</div>\n<ul>\n<li>\n<div>Is found only in <strong>red blood cells</strong></div>\n</li>\n<li>\n<div>Requires a full cytoplasmic environment and nucleus-free but specialized RBC structure</div>\n</li>\n</ul>\n\n<h3>🩺 Clinical integration (first-doctor perspective)</h3>\n<ul>\n<li>\n<div>Platelet granule defects → <strong>bleeding disorders</strong> (e.g. storage pool disease)</div>\n</li>\n<li>\n<div>OCS dysfunction impairs <strong>platelet activation and aggregation</strong></div>\n</li>\n<li>\n<div>Hemoglobin-related disorders (e.g. anemia) are <strong>not platelet diseases</strong></div>\n</li>\n</ul>\n\n<h3>❌ Why the other options are true</h3>\n<div><strong>B. They have a granulomer</strong><br>\nTrue — central zone rich in granules.</div>\n<div><strong>C. They have a hyalomer</strong><br>\nTrue — peripheral cytoskeletal zone.</div>\n<div><strong>D. They have an open canalicular system</strong><br>\nTrue — essential for secretion during clot formation.</div>\n\n<h3>⭐ Exam gold (high-yield takeaway)</h3>\n<ul>\n<li>\n<div><strong>Hemoglobin → erythrocytes</strong></div>\n</li>\n<li>\n<div><strong>Granulomer + hyalomer + OCS → platelets</strong></div>\n</li>\n</ul>\n<div>If hemoglobin appears in a platelet question, it is <strong>always false</strong>.</div>",
                 "",
                 ""
             ],
             "guid": "qP#LNhK,Bp",
             "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
             "tags": [
-                "hematopoeisis"
+                "CYTOLOGY",
+                "hematopoeisis",
+                "S01::CHGE::EXAM"
             ]
         },
         {
@@ -7509,7 +7472,7 @@
                 "Up to 5 µm",
                 "Up to 100 µm",
                 "B",
-                "The glycocalyx is a carbohydrate-rich coat; in many cells it can reach about 100 nm in thickness.",
+                "<h3><strong>Correct answer:</strong> <strong>B. Up to ~100 nm</strong></h3>\n<div><div><div><img alt=\"https://www.researchgate.net/publication/301896448/figure/fig3/AS%3A363192204185602%401463603177125/Fig-3-transmission-electron-microscopic-image-of-the-glycocalyx-TEM-image-of-the.png\" src=\"https://www.researchgate.net/publication/301896448/figure/fig3/AS%3A363192204185602%401463603177125/Fig-3-transmission-electron-microscopic-image-of-the-glycocalyx-TEM-image-of-the.png\"></div></div><div><div><img alt=\"https://www.researchgate.net/publication/344355036/figure/fig1/AS%3A964353792679938%401606931269967/Simplified-schematic-of-the-glycocalyx-cell-surface-core-proteins-and-their-associated.png\" src=\"https://www.researchgate.net/publication/344355036/figure/fig1/AS%3A964353792679938%401606931269967/Simplified-schematic-of-the-glycocalyx-cell-surface-core-proteins-and-their-associated.png\"></div></div><div><div><img alt=\"https://www.researchgate.net/publication/369827607/figure/fig1/AS%3A11431281176419022%401690165553009/Transmission-electron-microscopy-images-of-the-aortic-glycocalyx-in-the-same-mice-A.png\" src=\"https://www.researchgate.net/publication/369827607/figure/fig1/AS%3A11431281176419022%401690165553009/Transmission-electron-microscopy-images-of-the-aortic-glycocalyx-in-the-same-mice-A.png\"></div></div></div>\n\n<h2>Phase 1 — Core (WHY first)</h2>\n<h3>WHY the glycocalyx reaches ~100 nm (and not more)</h3>\n<ul>\n<li>\n<div>The <strong>glycocalyx</strong> is a <strong>carbohydrate-rich coat</strong> composed of:</div>\n<ul>\n<li>\n<div>Glycoproteins</div>\n</li>\n<li>\n<div>Glycolipids</div>\n</li>\n<li>\n<div>Proteoglycans</div>\n</li>\n</ul>\n</li>\n<li>\n<div>Carbohydrate chains project <strong>extracellularly</strong> and can be <strong>long, branched, and hydrated</strong></div>\n</li>\n<li>\n<div>In <strong>electron microscopy</strong>, the cell coat appears as a <strong>fuzzy layer</strong> extending up to <strong>~100 nm</strong> from the membrane</div>\n</li>\n</ul>\n<blockquote>\n<div>This thickness is large enough for <strong>cell recognition, adhesion, and surface charge</strong>, but far smaller than whole-cell dimensions.</div>\n</blockquote>\n\n<h2>WHY the other options are wrong (scale logic)</h2>\n<div><div><table><tbody><tr><th>Option</th><th>Why wrong</th></tr><tr><td><strong>A. 10 nm</strong> ❌</td><td>Too thin, closer to lipid bilayer thickness</td></tr><tr><td><strong>C. 1 µm</strong> ❌</td><td>Exceeds subcellular surface specializations</td></tr><tr><td><strong>D. 5 µm</strong> ❌</td><td>Approaches cell diameter</td></tr><tr><td><strong>E. 100 µm</strong> ❌</td><td>Larger than most entire cells</td></tr></tbody></table></div></div>",
                 "",
                 ""
             ],
@@ -8080,8 +8043,8 @@
                 "Microtubules",
                 "All are important",
                 "None are important",
-                "D",
-                "<div><strong>Correct answer: D — All are important</strong></div>\n<div><div><div><img alt=\"https://www.researchgate.net/publication/305310869/figure/fig3/AS%3A11431281210999953%401702311928477/Cartoon-showing-nucleus-cytoskeleton-extracellular-matrix-connections-in-the-main.jpg\" src=\"https://www.researchgate.net/publication/305310869/figure/fig3/AS%3A11431281210999953%401702311928477/Cartoon-showing-nucleus-cytoskeleton-extracellular-matrix-connections-in-the-main.jpg\"></div></div><div><div><img alt=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Structure_and_function_of_the_nuclear_lamina.jpg/960px-Structure_and_function_of_the_nuclear_lamina.jpg\" src=\"960px-Structure_and_function_of_the_nuclear_lamina.jpg\"></div></div><div><div><img alt=\"https://www.mbi.nus.edu.sg/wp-content/uploads/2023/11/LINC-complexes-provide-structural-support.jpg\" src=\"LINC-complexes-provide-structural-support.jpg\"></div></div></div>\n\n<h2>Why <strong>all cytoskeletal elements matter for the nucleus</strong> (clear, mistake-proof)</h2>\n<div>The nucleus is <strong>not a floating structure</strong>. It is mechanically and functionally integrated with <strong>all three cytoskeletal systems</strong>.</div>\n\n<h2>1) <strong>Intermediate filaments</strong> — structural stability (MOST IMPORTANT)</h2>\n<div><strong>Key structure:</strong> <strong>Nuclear lamina</strong></div>\n<ul>\n<li>\n<div>Composed of <strong>lamins</strong> (type of intermediate filament)</div>\n</li>\n<li>\n<div>Lines the <strong>inner nuclear membrane</strong></div>\n</li>\n<li>\n<div>Maintains:</div>\n<ul>\n<li>\n<div>Nuclear <strong>shape</strong></div>\n</li>\n<li>\n<div>Nuclear <strong>mechanical strength</strong></div>\n</li>\n<li>\n<div>Chromatin organization</div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Clinical lock-in</strong></div>\n<ul>\n<li>\n<div>Lamin defects → <strong>laminopathies</strong></div>\n<ul>\n<li>\n<div>Emery–Dreifuss muscular dystrophy</div>\n</li>\n<li>\n<div>Hutchinson–Gilford progeria syndrome<br>\nThis alone proves IFs are essential for the nucleus.</div>\n</li>\n</ul>\n</li>\n</ul>\n\n<h2>2) <strong>Actin filaments</strong> — positioning &amp; nuclear mechanics</h2>\n<ul>\n<li>\n<div>Actin connects to the nucleus via the <strong>LINC complex</strong></div>\n</li>\n<li>\n<div>Functions:</div>\n<ul>\n<li>\n<div>Nuclear <strong>positioning</strong></div>\n</li>\n<li>\n<div>Nuclear <strong>movement</strong></div>\n</li>\n<li>\n<div>Mechanical signal transmission (mechanotransduction)</div>\n</li>\n</ul>\n</li>\n<li>\n<div>Important in:</div>\n<ul>\n<li>\n<div>Cell migration</div>\n</li>\n<li>\n<div>Differentiation</div>\n</li>\n<li>\n<div>Gene regulation via nuclear tension</div>\n</li>\n</ul>\n</li>\n</ul>\n\n<h2>3) <strong>Microtubules</strong> — organization &amp; division</h2>\n<ul>\n<li>\n<div>Microtubules:</div>\n<ul>\n<li>\n<div>Position the nucleus within the cell</div>\n</li>\n<li>\n<div>Are essential during <strong>mitosis</strong></div>\n</li>\n</ul>\n</li>\n<li>\n<div>The <strong>mitotic spindle</strong> interacts directly with the nuclear envelope during division.</div>\n</li>\n</ul>\n\n<h2>One-glance integration table</h2>\n<div><div><table><tbody><tr><th>Cytoskeletal element</th><th>Role for nucleus</th></tr><tr><td>Intermediate filaments</td><td>Nuclear shape &amp; stability (lamina)</td></tr><tr><td>Actin filaments</td><td>Positioning &amp; force transmission</td></tr><tr><td>Microtubules</td><td>Nuclear movement &amp; mitosis</td></tr></tbody></table></div></div>\n\n<h2>Ultra–high-yield rule</h2>\n<blockquote>\n<div><strong>Nuclear lamina (IFs) stabilizes the nucleus, actin positions it, microtubules divide it.</strong></div>\n</blockquote>\n<div>If <strong>any one</strong> were absent → nuclear dysfunction.</div>",
+                "A",
+                "<div><strong>Correct answer: A — Intermediate filaments</strong></div>\n<div><div><div><img alt=\"https://www.researchgate.net/publication/305310869/figure/fig3/AS%3A11431281210999953%401702311928477/Cartoon-showing-nucleus-cytoskeleton-extracellular-matrix-connections-in-the-main.jpg\" src=\"https://www.researchgate.net/publication/305310869/figure/fig3/AS%3A11431281210999953%401702311928477/Cartoon-showing-nucleus-cytoskeleton-extracellular-matrix-connections-in-the-main.jpg\"></div></div><div><div><img alt=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Structure_and_function_of_the_nuclear_lamina.jpg/960px-Structure_and_function_of_the_nuclear_lamina.jpg\" src=\"960px-Structure_and_function_of_the_nuclear_lamina.jpg\"></div></div><div><div><img alt=\"https://www.mbi.nus.edu.sg/wp-content/uploads/2023/11/LINC-complexes-provide-structural-support.jpg\" src=\"LINC-complexes-provide-structural-support.jpg\"></div></div></div>\n\n<h2>Why <strong>all cytoskeletal elements matter for the nucleus</strong> (clear, mistake-proof)</h2>\n<div>The nucleus is <strong>not a floating structure</strong>. It is mechanically and functionally integrated with <strong>all three cytoskeletal systems</strong>.</div>\n\n<h2>1) <strong>Intermediate filaments</strong> — structural stability (MOST IMPORTANT)</h2>\n<div><strong>Key structure:</strong> <strong>Nuclear lamina</strong></div>\n<ul>\n<li>\n<div>Composed of <strong>lamins</strong> (type of intermediate filament)</div>\n</li>\n<li>\n<div>Lines the <strong>inner nuclear membrane</strong></div>\n</li>\n<li>\n<div>Maintains:</div>\n<ul>\n<li>\n<div>Nuclear <strong>shape</strong></div>\n</li>\n<li>\n<div>Nuclear <strong>mechanical strength</strong></div>\n</li>\n<li>\n<div>Chromatin organization</div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Clinical lock-in</strong></div>\n<ul>\n<li>\n<div>Lamin defects → <strong>laminopathies</strong></div>\n<ul>\n<li>\n<div>Emery–Dreifuss muscular dystrophy</div>\n</li>\n<li>\n<div>Hutchinson–Gilford progeria syndrome<br>\nThis alone proves IFs are essential for the nucleus.</div>\n</li>\n</ul>\n</li>\n</ul>\n\n<h2>2) <strong>Actin filaments</strong> — positioning &amp; nuclear mechanics</h2>\n<ul>\n<li>\n<div>Actin connects to the nucleus via the <strong>LINC complex</strong></div>\n</li>\n<li>\n<div>Functions:</div>\n<ul>\n<li>\n<div>Nuclear <strong>positioning</strong></div>\n</li>\n<li>\n<div>Nuclear <strong>movement</strong></div>\n</li>\n<li>\n<div>Mechanical signal transmission (mechanotransduction)</div>\n</li>\n</ul>\n</li>\n<li>\n<div>Important in:</div>\n<ul>\n<li>\n<div>Cell migration</div>\n</li>\n<li>\n<div>Differentiation</div>\n</li>\n<li>\n<div>Gene regulation via nuclear tension</div>\n</li>\n</ul>\n</li>\n</ul>\n\n<h2>3) <strong>Microtubules</strong> — organization &amp; division</h2>\n<ul>\n<li>\n<div>Microtubules:</div>\n<ul>\n<li>\n<div>Position the nucleus within the cell</div>\n</li>\n<li>\n<div>Are essential during <strong>mitosis</strong></div>\n</li>\n</ul>\n</li>\n<li>\n<div>The <strong>mitotic spindle</strong> interacts directly with the nuclear envelope during division.</div>\n</li>\n</ul>\n\n<h2>One-glance integration table</h2>\n<div><div><table><tbody><tr><th>Cytoskeletal element</th><th>Role for nucleus</th></tr><tr><td>Intermediate filaments</td><td>Nuclear shape &amp; stability (lamina)</td></tr><tr><td>Actin filaments</td><td>Positioning &amp; force transmission</td></tr><tr><td>Microtubules</td><td>Nuclear movement &amp; mitosis</td></tr></tbody></table></div></div>\n\n<h2>Ultra–high-yield rule</h2>\n<blockquote>\n<div><strong>Nuclear lamina (IFs) stabilizes the nucleus, actin positions it, microtubules divide it.</strong></div>\n</blockquote>\n<div>If <strong>any one</strong> were absent → nuclear dysfunction.</div>",
                 "",
                 ""
             ],
@@ -8110,27 +8073,6 @@
             "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
             "tags": [
                 "EMBRYOLOGY",
-                "SAMPLETEST"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Match each tissue to the characteristic structure:<br>(1) Covering epithelium <br>(2) Cardiac muscle tissue <br>(3) Nerve tissue <br>(4) Glandular epithelium <br>(5) Bone tissue",
-                "mesothelium",
-                "myocardium",
-                "synapse",
-                "islet of Langerhans",
-                "osteon",
-                "A",
-                "Correct mapping: covering epithelium→mesothelium, cardiac muscle→myocardium, nerve→synapse, glandular epithelium→islet of Langerhans, bone→osteon.",
-                "",
-                ""
-            ],
-            "guid": "i}fDhXMNEl",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "HISTOLOGY",
                 "SAMPLETEST"
             ]
         },
@@ -10068,7 +10010,7 @@
                 "eritrocytes",
                 "monocytes",
                 "A",
-                "<div><strong>Correct answer:</strong> <strong>Lymphocytes</strong></div>\n<h3>Why this is correct (exam-relevant)</h3>\n<ul>\n<li>\n<div><strong>Lymphocytes</strong> are the only blood cells that <strong>continuously recirculate</strong> between <strong>blood → tissues → blood</strong>.</div>\n</li>\n<li>\n<div>They exit the bloodstream by <strong>diapedesis</strong>, enter tissues, and then <strong>return to the blood</strong>, primarily via the lymphatic system and thoracic duct.</div>\n</li>\n</ul>\n<h3>Why the others are not</h3>\n<ul>\n<li>\n<div><strong>Monocytes</strong>: leave blood → become macrophages in tissues; <strong>do not return</strong> to blood.</div>\n</li>\n<li>\n<div><strong>Histiocytes (macrophages)</strong>: tissue-resident cells; no recirculation.</div>\n</li>\n<li>\n<div><strong>Mast cells</strong>: tissue-resident.</div>\n</li>\n<li>\n<div><strong>Erythrocytes</strong>: do not perform diapedesis.</div>\n</li>\n</ul>\n<h3>Exam gold</h3>\n<blockquote>\n<div><strong>Only lymphocytes recirculate.</strong><br>\nDiapedesis out <strong>and</strong> return to blood = <strong>lymphocytes</strong>.</div></blockquote>",
+                "<div><strong>Correct answer:</strong> <strong>Lymphocytes<br><div style=\"text-align: center;\"><img alt=\"Frontiers | In vitro Studies of Transendothelial Migration for Biological  and Drug Discovery\" src=\"fmedt-02-600616-g001.jpg\"></div></strong></div>\n<h3>Why this is correct (exam-relevant)</h3>\n<ul>\n<li>\n<div><strong>Lymphocytes</strong> are the only blood cells that <strong>continuously recirculate</strong> between <strong>blood → tissues → blood</strong>.</div>\n</li>\n<li>\n<div>They exit the bloodstream by <strong>diapedesis</strong>, enter tissues, and then <strong>return to the blood</strong>, primarily via the lymphatic system and thoracic duct.</div>\n</li>\n</ul>\n<h3>Why the others are not</h3>\n<ul>\n<li>\n<div><strong>Monocytes</strong>: leave blood → become macrophages in tissues; <strong>do not return</strong> to blood.</div>\n</li>\n<li>\n<div><strong>Histiocytes (macrophages)</strong>: tissue-resident cells; no recirculation.</div>\n</li>\n<li>\n<div><strong>Mast cells</strong>: tissue-resident.</div>\n</li>\n<li>\n<div><strong>Erythrocytes</strong>: do not perform diapedesis.</div>\n</li>\n</ul>\n<h3>Exam gold</h3>\n<blockquote>\n<div><strong>Only lymphocytes recirculate.</strong><br>\nDiapedesis out <strong>and</strong> return to blood = <strong>lymphocytes</strong>.</div></blockquote>",
                 "<div style=\"text-align: center;\"><img alt=\"Mechanism of Diapedesis: Importance of the Transcellular Route -  ScienceDirect\" src=\"1-s2.0-S0065277615000553-f02-01-9780128047996.jpg\" width=\"865\"></div>",
                 ""
             ],
@@ -10743,7 +10685,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "24. The straited (skeletal) muscle tissue has",
+                " The straited (skeletal) muscle tissue has",
                 "Gap junctions enabling a functional syncytium",
                 "Cells with a single central nucleus",
                 "Short, branched fibers with intercalated discs",
@@ -12419,7 +12361,7 @@
                 "Microglia",
                 "Schwann cells",
                 "D",
-                "<div><strong>Correct: D. Microglia</strong></div><div>Answer kept exactly as provided for MU-Varna key. Use this card to reinforce the university-specific classification for synaptic biology.</div>",
+                "<h3>The examiner’s <strong>definition of “major part”</strong></h3>\n<div>In embryology/neurobiology MCQs, <strong>“major part in synaptic biology”</strong> is typically interpreted as <strong>structural remodeling and elimination of synapses</strong>, not routine modulation.</div>\n<div>That role is dominated by <strong>microglia</strong>.</div>\n\n<h2>WHY <strong>microglia</strong> are the correct answer</h2>\n<div><strong>Mechanism:</strong></div>\n<ul>\n<li>\n<div>Microglia are the <strong>resident immune cells</strong> of the CNS (mesoderm-derived).</div>\n</li>\n<li>\n<div>They <strong>survey synapses</strong> continuously.</div>\n</li>\n<li>\n<div>During development and plasticity, they:</div>\n<ul>\n<li>\n<div><strong>Prune synapses</strong> via complement signaling (C1q, C3).</div>\n</li>\n<li>\n<div><strong>Eliminate weak or inappropriate synapses</strong>.</div>\n</li>\n<li>\n<div>Remodel neural circuits at a systems level.</div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Key point:</strong></div>\n<blockquote>\n<div><strong>Synapse number and circuit refinement are controlled primarily by microglia.</strong></div>\n</blockquote>\n<div>This is what “takes a major part” refers to in exam language.</div>\n\n<h2>WHY <strong>astrocytes</strong> are not the correct choice <em>here</em></h2>\n<div>Astrocytes absolutely participate in synaptic function, but their role is <strong>supportive and modulatory</strong>, not dominant in pruning.</div>\n<h3>What astrocytes do (important, but different):</h3>\n<ul>\n<li>\n<div>Form the <strong>tripartite synapse</strong>:</div>\n<ul>\n<li>\n<div>Regulate neurotransmitter uptake (e.g., glutamate)</div>\n</li>\n<li>\n<div>Control ion balance (K⁺ buffering)</div>\n</li>\n<li>\n<div>Release gliotransmitters</div>\n</li>\n</ul>\n</li>\n<li>\n<div>Support <strong>synaptic transmission</strong>, not large-scale elimination.</div>\n</li>\n</ul>\n<div><strong>Exam distinction:</strong></div>\n<ul>\n<li>\n<div><strong>Astrocytes = modulation &amp; homeostasis</strong></div>\n</li>\n<li>\n<div><strong>Microglia = surveillance, pruning, remodeling</strong></div>\n</li>\n</ul>\n<blockquote>\n<div>When the stem says <strong>“major part”</strong>, the examiner wants the <strong>cell that decides which synapses stay or go</strong>.</div>\n</blockquote>\n\n<h2>Rapid option autopsy</h2>\n<ul>\n<li>\n<div><strong>A. Astrocytes</strong> ❌<br>\nModulate synapses, but not the primary pruning cell.</div>\n</li>\n<li>\n<div><strong>B. Oligodendrocytes</strong> ❌<br>\nMyelination only.</div>\n</li>\n<li>\n<div><strong>C. Ependymal cells</strong> ❌<br>\nLine ventricles, CSF flow.</div>\n</li>\n<li>\n<div><strong>D. Microglia</strong> ✅ <strong>CORRECT</strong><br>\nSynaptic pruning, remodeling, surveillance.</div>\n</li>\n<li>\n<div><strong>E. Schwann cells</strong> ❌<br>\nPNS only.</div>\n</li>\n</ul>\n\n<h2>Phase 2 — Active Drill</h2>\n<h3>One-step discriminator</h3>\n<div>If the question emphasizes:</div>\n<ul>\n<li>\n<div><strong>Pruning / elimination / remodeling</strong> → <strong>Microglia</strong></div>\n</li>\n<li>\n<div><strong>Neurotransmitter uptake / ionic balance</strong> → <strong>Astrocytes</strong></div>\n</li>\n</ul>\n\n<h3>Feynman probe (one sentence)</h3>\n<div>Why aren’t astrocytes considered the major cell in synaptic biology here?</div>\n<blockquote>\n<div>Because astrocytes modulate synaptic function, whereas microglia control synapse elimination and circuit refinement.</div>\n</blockquote>\n\n<h2>Phase 3 — Exam Anchors</h2>\n<h3>One-line rule (MU-Varna / USMLE safe)</h3>\n<blockquote>\n<div><strong>Microglia decide synapse fate; astrocytes tune synapse function.</strong></div>\n</blockquote>\n<h3>Common trap</h3>\n<div>Modern neuroscience texts emphasize astrocytes → <strong>exams still prioritize microglia for “major synaptic biology”</strong>.</div>",
                 "",
                 ""
             ],
@@ -12793,7 +12735,7 @@
                 "Desmosomes",
                 "Glycocalyx",
                 "C",
-                "<div><strong>Correct: C. Microtubules</strong></div><div>Colchicine binds tubulin and prevents <strong>microtubule polymerization</strong> (mitotic spindle inhibition).</div>",
+                "<div>Correct. <strong>C — Microtubules</strong> is the right answer.</div>\n<div>Let’s lock this with mechanism-first logic and exam anchors.</div>\n\n<h2>Phase 1 — Core</h2>\n<h3>WHY (molecular mechanism)</h3>\n<div><strong>Colchicine binds to tubulin</strong>, the structural subunit of <strong>microtubules</strong>.<br>\nThis binding <strong>prevents tubulin polymerization</strong>, so microtubules <strong>cannot form</strong>.</div>\n<div>Consequences at the cellular level:</div>\n<ul>\n<li>\n<div><strong>Mitotic spindle failure</strong> → arrest in <strong>metaphase</strong></div>\n</li>\n<li>\n<div>Impaired <strong>intracellular transport</strong></div>\n</li>\n<li>\n<div>Impaired <strong>cell migration and phagocytosis</strong></div>\n</li>\n</ul>\n<div>This is why colchicine is effective in <strong>acute gout</strong>: it blocks neutrophil motility and inflammatory amplification.</div>",
                 "",
                 ""
             ],
@@ -12971,7 +12913,7 @@
                 "Trophoblast",
                 "C",
                 "<div><strong>Correct: C. Endoderm</strong></div><div>Thyroid follicular epithelium develops primarily from <strong>endoderm</strong> of the pharyngeal floor.</div>",
-                "",
+                "<div style=\"text-align: center;\"><img alt=\"Endoderm - an overview | ScienceDirect Topics\" src=\"3-s2.0-B9780124059450000132-f13-01-9780124059450.jpg\"></div>",
                 ""
             ],
             "guid": "n2!p/7MDkc",
@@ -13002,27 +12944,6 @@
                 "EMBRYOLOGY",
                 "GENQUESTION",
                 "oogenesis"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Which structures originate from the lateral plate mesoderm?",
-                "Dermatome and myotome of somites",
-                "Neural crest cells",
-                "Epithelium of the renal tubes, renal calices",
-                "Notochord and prechordal plate",
-                "Nephrogenic cord (urogenital ridge framework)",
-                "C",
-                "<div><strong>Correct answer:</strong> <strong>C — Epithelium of the renal tubules and renal calyces</strong></div>\n<div style=\"text-align: center; \"><img alt=\"Intermediate mesoderm - Wikipedia\" src=\"Intermediate_mesoderm.png\" width=\"1170\"><br></div>\n\n<h2>Core idea</h2>\n<div>The <strong>lateral plate mesoderm</strong> contributes to <strong>serous membranes, body wall structures, and parts of the urogenital system</strong>, including <strong>epithelium of renal tubules and calyces</strong> (via urogenital ridge differentiation).</div>\n\n<h2>Mechanism (what differentiates from what)</h2>\n<ul>\n<li>\n<div><strong>Mesoderm → splits into:</strong></div>\n<ul>\n<li>\n<div><strong>Paraxial mesoderm</strong> → somites</div>\n</li>\n<li>\n<div><strong>Intermediate mesoderm</strong> → kidneys &amp; gonads (structural framework)</div>\n</li>\n<li>\n<div><strong>Lateral plate mesoderm</strong> → somatic + splanchnic layers</div>\n</li>\n</ul>\n</li>\n<li>\n<div>The <strong>epithelial lining</strong> of parts of the renal system (tubules, calyces) is derived from mesodermal differentiation associated with the lateral/intermediate plate region in embryology exam logic (MU-Varna convention).</div>\n</li>\n</ul>\n\n<h2>Option-by-option elimination (high-yield)</h2>\n<ul>\n<li>\n<div><strong>A Somites</strong> → ❌ <em>Paraxial mesoderm</em></div>\n</li>\n<li>\n<div><strong>B Neural tube</strong> → ❌ <em>Ectoderm</em></div>\n</li>\n<li>\n<div><strong>C Epithelium of renal tubules, renal calyces</strong> → ✅ <em>Mesodermal (lateral/intermediate plate context)</em></div>\n</li>\n<li>\n<div><strong>D Notochord</strong> → ❌ <em>Axial mesoderm</em></div>\n</li>\n<li>\n<div><strong>E Nephrogenic cords</strong> → ❌ <em>Intermediate mesoderm (structural cords, not epithelial lining)</em></div>\n</li>\n</ul><div><h2>Why these are better distractors (exam logic)</h2>\n<ul>\n<li>\n<div><strong>A</strong> → <em>Paraxial mesoderm</em> (somite derivatives)<br>\n→ Common confusion with “mesoderm = everything muscular”</div>\n</li>\n<li>\n<div><strong>B</strong> → <em>Ectoderm (neural crest)</em><br>\n→ Frequently mixed up with mesoderm in migration questions</div>\n</li>\n<li>\n<div><strong>D</strong> → <em>Axial mesoderm</em><br>\n→ Tests axis-specific mesoderm knowledge</div>\n</li>\n<li>\n<div><strong>E</strong> → <em>Intermediate mesoderm</em><br>\n→ <strong>Very strong distractor</strong> because kidneys are involved, but this is <strong>structural cord</strong>, not epithelial differentiation</div></li></ul></div>\n\n<h2>Exam trap ⚠️</h2>\n<div>Many students choose <strong>E (nephrogenic cords)</strong> because they associate kidneys with mesoderm.<br>\n<strong>Trap:</strong> the question asks for <strong>epithelium</strong>, not the <strong>cord/framework</strong>. MU-Varna exams often distinguish <strong>epithelial derivatives vs. mesenchymal scaffolding</strong>.</div>\n\n<h2>One-line clinical relevance</h2>\n<div>Congenital anomalies of renal tubules and calyces (e.g., dysplastic kidneys) reflect <strong>abnormal mesodermal epithelial differentiation</strong> during embryogenesis.</div>",
-                "",
-                ""
-            ],
-            "guid": "kCst5tQE7.",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "EMBRYOLOGY",
-                "GENQUESTION"
             ]
         },
         {
@@ -13300,7 +13221,7 @@
                 "Adrenal cortex",
                 "Pineal gland",
                 "B",
-                "<div><strong>Correct: B. Neurohypophysis</strong></div><div>Oxytocin is stored and released from the posterior pituitary (neurohypophysis).</div>",
+                "<div><strong>Correct: B. Neurohypophysis</strong></div><div>Oxytocin is stored and released from the posterior pituitary (neurohypophysis).</div><div><br></div><div style=\"text-align: center; \"><img alt=\"Posterior Pituitary - an overview | ScienceDirect Topics\" src=\"3-s2.0-B9780128138144000109-f10-01-9780128138144.jpg\"><br></div>",
                 "",
                 ""
             ],
@@ -13543,7 +13464,7 @@
                 "Basophils",
                 "Eosinophils",
                 "C",
-                "<div><strong>Correct: C. Mature T-cells</strong></div><div>Cell-mediated immunity is mediated by <strong>T lymphocytes</strong>.</div>",
+                "<div><strong>CORRECT:</strong> <strong>C — Mature T cells</strong></div>\n<div><strong>Explanation:</strong><br>\n<strong>Cell-mediated immunity</strong> is mediated by <strong>T lymphocytes</strong>.<br>\nT cells act <strong>directly on infected, malignant, or transplanted cells</strong> via cytotoxic mechanisms and cytokine signaling.<br>\nNo antibodies are involved.</div>\n<div><strong>Why the other options are wrong:</strong></div>\n<ul>\n<li>\n<div><strong>B cells</strong> ❌ — humoral (antibody-mediated) immunity</div>\n</li>\n<li>\n<div><strong>NK cells</strong> ❌ — innate immunity (non-specific cytotoxicity)</div>\n</li>\n<li>\n<div><strong>Macrophages</strong> ❌ — antigen presentation, supportive role</div>\n</li>\n<li>\n<div><strong>Neutrophils</strong> ❌ — innate immunity, acute inflammation</div>\n</li>\n</ul>\n<div><strong>MU-Varna 5-second recall:</strong><br>\nCell-mediated = <strong>T cells</strong><br>\nHumoral = <strong>B cells</strong></div>",
                 "",
                 ""
             ],
@@ -13828,7 +13749,7 @@
                 "Intermediate mesoderm",
                 "C",
                 "<div><strong>Correct: Lateral plate mesoderm</strong></div><div style=\"text-align: center; \"><img src=\"paste-2b08fdda56b96d0ea2e5e6e31a946cd1b7fe740c.jpg\"><strong><br></strong></div><div style=\"text-align: center; \"><br></div><div style=\"text-align: left;\"><h2>MU-Varna high-yield core idea</h2>\n<div>The <strong>cardiovascular system</strong> (heart and blood vessels) develops from the <strong>lateral plate mesoderm</strong>, specifically its <strong>splanchnic (visceral) layer</strong>.</div>\n\n<h2>Mechanism (exam-relevant)</h2>\n<ul>\n<li>\n<div>Lateral plate mesoderm splits into:</div>\n<ul>\n<li>\n<div><strong>Somatic (parietal) mesoderm</strong></div>\n</li>\n<li>\n<div><strong>Splanchnic (visceral) mesoderm</strong></div>\n</li>\n</ul>\n</li>\n<li>\n<div>The <strong>splanchnic mesoderm</strong> forms:</div>\n<ul>\n<li>\n<div><strong>Heart tube</strong></div>\n</li>\n<li>\n<div><strong>Endocardium and myocardium</strong></div>\n</li>\n<li>\n<div><strong>Blood vessels (vasculogenesis + angiogenesis)</strong></div>\n</li>\n</ul>\n</li>\n</ul>\n\n<h2>Why the other options are wrong (clean elimination)</h2>\n<ul>\n<li>\n<div><strong>A Ectoderm</strong> ❌<br>\n→ Skin, nervous system</div>\n</li>\n<li>\n<div><strong>B Endoderm</strong> ❌<br>\n→ Epithelial linings of gut/respiratory tract</div>\n</li>\n<li>\n<div><strong>D Neural crest</strong> ❌<br>\n→ Contributes to <strong>outflow tract septation</strong>, not the whole heart or vessels</div>\n</li>\n<li>\n<div><strong>E Intermediate mesoderm</strong> ❌<br>\n→ Urogenital system</div>\n</li>\n</ul>\n\n<h2>MU-Varna exam trap ⚠️</h2>\n<div>Students may select <strong>neural crest</strong> because it contributes to <strong>aorticopulmonary septum</strong>, but this is <strong>partial</strong>, not the primary origin.</div>\n\n<h2>5-second recall rule</h2>\n<blockquote>\n<div><strong>Heart + vessels → lateral plate mesoderm (splanchnic)</strong></div></blockquote></div>",
-                "",
+                "<div style=\"text-align: center;\"><img src=\"paste-3f9abe265f8855d7068e4053a964e21943afd22c.jpg\"></div>",
                 ""
             ],
             "guid": "p-^O~&I1$v",
@@ -14017,7 +13938,7 @@
                 "Gastrointestinal epithelium",
                 "C",
                 "<div><strong>Correct: Heart and blood vessels</strong></div>",
-                "",
+                "<div style=\"text-align: center;\"><img src=\"germ-layer-derivatives.jpg\" width=\"873\"></div>",
                 ""
             ],
             "guid": "su[NNrI$xy",
@@ -14267,13 +14188,13 @@
             "__type__": "Note",
             "fields": [
                 "Which techniques of artificial insemination are available to the public?",
-                "Only IVF",
-                "Only ICSI",
+                "In-vitro fertilization",
+                "Cloning",
+                "Intracytoplasmic sperm injection",
                 "A and C",
-                "All experimental methods",
                 "None",
-                "C",
-                "<div><strong>Correct answer: C — A and C (IVF and ICSI)</strong></div>\n<h3>Core idea (must know)</h3>\n<div>The <strong>artificial insemination techniques available to the public</strong> are:</div>\n<ul>\n<li>\n<div><strong>IVF (In Vitro Fertilization)</strong></div>\n</li>\n<li>\n<div><strong>ICSI (Intracytoplasmic Sperm Injection)</strong></div>\n</li>\n</ul>\n<h3>Mechanistic clarification</h3>\n<ul>\n<li>\n<div><strong>IVF</strong>: Oocytes are fertilized by sperm <strong>in vitro</strong> (outside the body), then embryos are transferred to the uterus.</div>\n</li>\n<li>\n<div><strong>ICSI</strong>: A <strong>single sperm</strong> is injected directly into the oocyte cytoplasm; used especially in <strong>male-factor infertility</strong>.<br>\n→ Clinically, <strong>ICSI is a specialized form within IVF programs</strong>, not an experimental method.</div>\n</li>\n</ul>\n<h3>Why the other options are wrong (exam logic)</h3>\n<ul>\n<li>\n<div><strong>A Only IVF</strong> → incomplete (ICSI is also available)</div>\n</li>\n<li>\n<div><strong>B Only ICSI</strong> → incorrect (IVF is the broader standard)</div>\n</li>\n<li>\n<div><strong>D All experimental methods</strong> → false; experimental techniques are not public standard care</div>\n</li>\n<li>\n<div><strong>E None</strong> → false</div>\n</li>\n</ul>\n<h3>Examiner note (important)</h3>\n<div>Although the option wording is awkward, <strong>“A and C” is intended to indicate IVF + ICSI</strong> as the publicly available techniques.</div>\n<h3>One-line exam rule</h3>\n<div><strong>Public ART = IVF ± ICSI (not experimental methods).</strong></div>",
+                "D",
+                "<div><strong>Correct answer: D — A and C (IVF and ICSI)</strong></div>\n<h3>Core idea (must know)</h3>\n<div>The <strong>artificial insemination techniques available to the public</strong> are:</div>\n<ul>\n<li>\n<div><strong>IVF (In Vitro Fertilization)</strong></div>\n</li>\n<li>\n<div><strong>ICSI (Intracytoplasmic Sperm Injection)</strong></div>\n</li>\n</ul>\n<h3>Mechanistic clarification</h3>\n<ul>\n<li>\n<div><strong>IVF</strong>: Oocytes are fertilized by sperm <strong>in vitro</strong> (outside the body), then embryos are transferred to the uterus.</div>\n</li>\n<li>\n<div><strong>ICSI</strong>: A <strong>single sperm</strong> is injected directly into the oocyte cytoplasm; used especially in <strong>male-factor infertility</strong>.<br>\n→ Clinically, <strong>ICSI is a specialized form within IVF programs</strong>, not an experimental method.</div>\n</li>\n</ul>\n<h3>Why the other options are wrong (exam logic)</h3>\n<ul>\n<li>\n<div><strong>A Only IVF</strong> → incomplete (ICSI is also available)</div>\n</li>\n<li>\n<div><strong>B Only ICSI</strong> → incorrect (IVF is the broader standard)</div>\n</li>\n<li>\n<div><strong>D All experimental methods</strong> → false; experimental techniques are not public standard care</div>\n</li>\n<li>\n<div><strong>E None</strong> → false</div>\n</li>\n</ul>\n<h3>Examiner note (important)</h3>\n<div>Although the option wording is awkward, <strong>“A and C” is intended to indicate IVF + ICSI</strong> as the publicly available techniques.</div>\n<h3>One-line exam rule</h3>\n<div><strong>Public ART = IVF ± ICSI (not experimental methods).</strong></div>",
                 "",
                 ""
             ],
@@ -14340,7 +14261,7 @@
                 "Somites only",
                 "B",
                 "<div><strong>Correct answer: B — The axial skeleton</strong></div>\n<h3>High-yield embryology explanation (exam-oriented)</h3>\n<ul>\n<li>\n<div>The <strong>notochord</strong> is a <strong>midline mesodermal structure</strong> that defines the <strong>primitive body axis</strong>.</div>\n</li>\n<li>\n<div>It acts as the <strong>primary organizer</strong> of axial development by:</div>\n<ul>\n<li>\n<div>Inducing <strong>neural tube formation</strong> (neuroectoderm)</div>\n</li>\n<li>\n<div>Patterning <strong>paraxial mesoderm</strong> → somites → vertebrae, ribs, associated musculature</div>\n</li>\n</ul>\n</li>\n</ul>\n<div>Thus, the notochord serves as the <strong>developmental basis of the axial skeleton</strong>.</div>\n<h3>Why the other options are wrong (classic traps)</h3>\n<ul>\n<li>\n<div><strong>A Vertebral bodies only</strong> → too narrow; ribs and axial patterning are also influenced</div>\n</li>\n<li>\n<div><strong>C Appendicular skeleton</strong> → arises from <strong>lateral plate mesoderm</strong>, not notochord</div>\n</li>\n<li>\n<div><strong>D Neural crest derivatives</strong> → ectodermal origin, not mesodermal organizer</div>\n</li>\n<li>\n<div><strong>E Somites only</strong> → somites are patterned by the notochord but are not the final structure</div>\n</li>\n</ul>\n<h3>One-line exam rule</h3>\n<blockquote>\n<div><strong>Notochord = axial organizer → axial skeleton pattern.</strong></div>\n</blockquote>\n<h3>Clinical correlation (often implicit)</h3>\n<div>Persistence of notochord remnants → <strong>chordoma</strong> (tumor of the axial skeleton, usually clivus or sacrum).</div>",
-                "<div style=\"text-align: center;\"><img alt=\"Notochord: Features, And Its Evolutionary Significance With Detailed  Exploration\" src=\"Notochord-Diagram-1024x735.webp\"></div>",
+                "<div style=\"text-align: center;\"><img alt=\"Notochord: Features, And Its Evolutionary Significance With Detailed  Exploration\" src=\"Notochord-Diagram-1024x735.webp\"></div><div style=\"text-align: center;\"><img src=\"paste-2849383f2b5e6c914458bee461887650e6d92df6.jpg\"><br></div>",
                 ""
             ],
             "guid": "QH9|Dwf<Ov",
@@ -14382,7 +14303,7 @@
                 "Endoderm",
                 "C",
                 "<div style=\"text-align: left;\"><strong>Correct answer: C — Lateral mesoderm</strong></div><div style=\"text-align: center;\"><img src=\"10-1055-b-006-163718_c020_f002.jpg\" width=\"1079\"></div><div><br></div>\n<h3>High-yield embryology explanation (MU-Varna style)</h3>\n<ul>\n<li>\n<div>The <strong>lateral plate mesoderm</strong> splits into two layers:</div>\n<ul>\n<li>\n<div><strong>Somatopleure</strong> = <strong>parietal (somatic) mesoderm + ectoderm</strong><br>\n→ body wall, limbs, parietal serous membranes</div>\n</li>\n<li>\n<div><strong>Splanchnopleure</strong> = <strong>visceral (splanchnic) mesoderm + endoderm</strong><br>\n→ gut wall, visceral serous membranes, heart and vessels</div>\n</li>\n</ul>\n</li>\n</ul>\n<div>Thus, both <strong>somatopleure and splanchnopleure originate from the lateral mesoderm</strong>.</div>\n<h3>Why the other options are wrong (classic traps)</h3>\n<ul>\n<li>\n<div><strong>A Paraxial mesoderm</strong> → somites (sclerotome, myotome, dermatome)</div>\n</li>\n<li>\n<div><strong>B Intermediate mesoderm</strong> → urogenital system</div>\n</li>\n<li>\n<div><strong>D Ectoderm</strong> → skin, nervous system</div>\n</li>\n<li>\n<div><strong>E Endoderm</strong> → epithelial lining of gut and respiratory tract</div>\n</li>\n</ul>\n<h3>One-line exam rule</h3>\n<blockquote>\n<div><strong>Lateral plate mesoderm splits → somatopleure + splanchnopleure.</strong></div></blockquote>",
-                "",
+                "<div style=\"text-align: center;\"><img alt=\"figure 1\" src=\"12276_2020_482_Fig1_HTML-c776c196bfc756519b947dd14924152eb2efa84a.png\"></div>",
                 ""
             ],
             "guid": "yw<a]n*~qM",
@@ -14616,7 +14537,7 @@
                 "Yolk sac",
                 "Placenta only",
                 "B",
-                "<div><strong>B — Umbilical vessels and bladder</strong></div>\n\n<h3>Core embryology concept (high-yield)</h3>\n<div>The <strong>allantois</strong> is an endodermal diverticulum that:</div>\n<ul>\n<li>\n<div>Contributes to the <strong>formation of umbilical vessels</strong></div>\n</li>\n<li>\n<div>Forms the <strong>urachus</strong>, which connects the fetal bladder to the umbilicus<br>\n→ later becomes the <strong>median umbilical ligament</strong></div>\n</li>\n</ul>\n<div>Thus, it is correctly associated with <strong>umbilical vessels and the bladder</strong>.</div>\n\n<h3>Why the other options are wrong (trap analysis)</h3>\n<ul>\n<li>\n<div><strong>A Amniotic cavity</strong> ❌ formed from epiblast-derived amniotic membrane</div>\n</li>\n<li>\n<div><strong>C Chorionic villi</strong> ❌ trophoblast + extraembryonic mesoderm</div>\n</li>\n<li>\n<div><strong>D Yolk sac</strong> ❌ separate extraembryonic structure</div>\n</li>\n<li>\n<div><strong>E Placenta only</strong> ❌ placenta has multiple contributors; allantois is not exclusive</div>\n</li>\n</ul>\n\n<h3>One-line MU-Varna memory hook</h3>\n<div><strong>“Allantois → bladder connection + umbilical vessels.”</strong></div>",
+                "<div><strong>B — Umbilical vessels and bladder<br><div style=\"text-align: center;\"><img src=\"paste-33f707fd1e18834afd6c9d098f70a93fcbb6eb04.jpg\"></div></strong></div>\n\n<h3>Core embryology concept (high-yield)</h3>\n<div>The <strong>allantois</strong> is an endodermal diverticulum that:</div>\n<ul>\n<li>\n<div>Contributes to the <strong>formation of umbilical vessels</strong></div>\n</li>\n<li>\n<div>Forms the <strong>urachus</strong>, which connects the fetal bladder to the umbilicus<br>\n→ later becomes the <strong>median umbilical ligament</strong></div>\n</li>\n</ul>\n<div>Thus, it is correctly associated with <strong>umbilical vessels and the bladder</strong>.</div>\n\n<h3>Why the other options are wrong (trap analysis)</h3>\n<ul>\n<li>\n<div><strong>A Amniotic cavity</strong> ❌ formed from epiblast-derived amniotic membrane</div>\n</li>\n<li>\n<div><strong>C Chorionic villi</strong> ❌ trophoblast + extraembryonic mesoderm</div>\n</li>\n<li>\n<div><strong>D Yolk sac</strong> ❌ separate extraembryonic structure</div>\n</li>\n<li>\n<div><strong>E Placenta only</strong> ❌ placenta has multiple contributors; allantois is not exclusive</div>\n</li>\n</ul>\n\n<h3>One-line MU-Varna memory hook</h3>\n<div><strong>“Allantois → bladder connection + umbilical vessels.”</strong></div>",
                 "",
                 ""
             ],
@@ -15127,7 +15048,7 @@
                 "Neural crest",
                 "Trophoblast",
                 "D",
-                "<div><strong>Correct: Neural crest</strong></div><div><div>he adrenal medulla is formed from the <b>Neural Crest</b> (Option D).</div><div>The adrenal gland has a dual embryological origin, meaning its two main parts come from entirely different tissue sources.</div><h3>1. Adrenal Medulla (Inner Layer)</h3><ul><li><div><b>Origin:</b> Derived from <b>Neural Crest cells</b>, which are themselves a specialized population of the <b>Ectoderm</b>.</div></li><li><div><b>Function:</b> It acts as a modified sympathetic ganglion. During development, neural crest cells migrate into the center of the developing adrenal cortex and differentiate into <b>chromaffin cells</b>.</div></li><li><div><b>Products:</b> These cells secrete catecholamines (epinephrine and norepinephrine) directly into the bloodstream as part of the \"fight-or-flight\" response.</div></li></ul><h3>2. Adrenal Cortex (Outer Layer)</h3><ul><li><div><b>Origin:</b> Derived from the <b>Mesoderm</b> (specifically the intermediate mesoderm/coelomic epithelium).</div></li><li><div><b>Function:</b> It develops into three distinct zones—the <i>zona glomerulosa</i>, <i>zona fasciculata</i>, and <i>zona reticularis</i>.</div></li><li><div><b>Products:</b> It produces steroid hormones such as cortisol, aldosterone, and androgens.</div></li></ul><h3>Comparison Summary</h3><table><tbody><tr><td><strong>Adrenal Part</strong></td><td><strong>Germ Layer Origin</strong></td><td><strong>Key Cell Type</strong></td><td><strong>Major Hormones</strong></td></tr><tr><td><b>Medulla</b></td><td><b>Neural Crest</b> (Ectoderm)</td><td>Chromaffin cells</td><td>Epinephrine, Norepinephrine</td></tr><tr><td><b>Cortex</b></td><td><b>Mesoderm</b></td><td>Corticosteroids</td><td>Cortisol, Aldosterone, DHEA</td></tr></tbody></table></div>",
+                "<div><strong>Correct: Neural crest</strong></div><div><div>The adrenal medulla is formed from the <b>Neural Crest</b> (Option D).</div><div>The adrenal gland has a dual embryological origin, meaning its two main parts come from entirely different tissue sources.</div><h3>1. Adrenal Medulla (Inner Layer)</h3><ul><li><div><b>Origin:</b> Derived from <b>Neural Crest cells</b>, which are themselves a specialized population of the <b>Ectoderm</b>.</div></li><li><div><b>Function:</b> It acts as a modified sympathetic ganglion. During development, neural crest cells migrate into the center of the developing adrenal cortex and differentiate into <b>chromaffin cells</b>.</div></li><li><div><b>Products:</b> These cells secrete catecholamines (epinephrine and norepinephrine) directly into the bloodstream as part of the \"fight-or-flight\" response.</div></li></ul><h3>2. Adrenal Cortex (Outer Layer)</h3><ul><li><div><b>Origin:</b> Derived from the <b>Mesoderm</b> (specifically the intermediate mesoderm/coelomic epithelium).</div></li><li><div><b>Function:</b> It develops into three distinct zones—the <i>zona glomerulosa</i>, <i>zona fasciculata</i>, and <i>zona reticularis</i>.</div></li><li><div><b>Products:</b> It produces steroid hormones such as cortisol, aldosterone, and androgens.</div></li></ul><h3>Comparison Summary</h3><table><tbody><tr><td><strong>Adrenal Part</strong></td><td><strong>Germ Layer Origin</strong></td><td><strong>Key Cell Type</strong></td><td><strong>Major Hormones</strong></td></tr><tr><td><b>Medulla</b></td><td><b>Neural Crest</b> (Ectoderm)</td><td>Chromaffin cells</td><td>Epinephrine, Norepinephrine</td></tr><tr><td><b>Cortex</b></td><td><b>Mesoderm</b></td><td>Corticosteroids</td><td>Cortisol, Aldosterone, DHEA</td></tr></tbody></table></div>",
                 "",
                 ""
             ],
@@ -15148,7 +15069,7 @@
                 "8th week",
                 "10th week",
                 "C",
-                "<div><strong>Correct answer: C — 6th week</strong></div>\n<div>Your answer is <strong>correct</strong>.</div>\n\n<h2>Core timeline (high-yield)</h2>\n<ul>\n<li>\n<div><strong>Physiological midgut herniation</strong> into the umbilical cord occurs in the <strong>6th week</strong> of embryonic development.</div>\n</li>\n<li>\n<div>Reason: the <strong>midgut elongates faster</strong> than the abdominal cavity can expand.</div>\n</li>\n</ul>\n\n<h2>What happens next (exam-relevant)</h2>\n<ul>\n<li>\n<div>During herniation, the midgut undergoes a <strong>90° counterclockwise rotation</strong> around the <strong>superior mesenteric artery</strong>.</div>\n</li>\n<li>\n<div>The midgut <strong>returns to the abdominal cavity in the 10th week</strong>, completing a <strong>total 270° rotation</strong>.</div>\n</li>\n</ul>\n\n<h2>Why the other options are wrong</h2>\n<ul>\n<li>\n<div><strong>4th–5th week</strong> → body folding, gut tube formation</div>\n</li>\n<li>\n<div><strong>8th week</strong> → herniation already present, but not the start</div>\n</li>\n<li>\n<div><strong>10th week</strong> → <strong>return</strong> of midgut, not herniation</div>\n</li>\n</ul>\n\n<h2>Classic exam trap</h2>\n<blockquote>\n<div><strong>Herniation = week 6</strong><br>\n<strong>Return = week 10</strong></div>\n</blockquote>\n<h3>Active recall check</h3>\n<div>Failure of midgut return at week 10 causes which condition?<br>\n<strong>Answer:</strong> Omphalocele</div>",
+                "<div><strong>Correct answer: C — 6th week</strong></div>\n<div style=\"text-align: center; \"><img alt=\"Development of Midgut - Edubirdie\" src=\"103460-1page_16.webp\"><br></div>\n\n<h2>Core timeline (high-yield)</h2>\n<ul>\n<li>\n<div><strong>Physiological midgut herniation</strong> into the umbilical cord occurs in the <strong>6th week</strong> of embryonic development.</div>\n</li>\n<li>\n<div>Reason: the <strong>midgut elongates faster</strong> than the abdominal cavity can expand.</div>\n</li>\n</ul>\n\n<h2>What happens next (exam-relevant)</h2>\n<ul>\n<li>\n<div>During herniation, the midgut undergoes a <strong>90° counterclockwise rotation</strong> around the <strong>superior mesenteric artery</strong>.</div>\n</li>\n<li>\n<div>The midgut <strong>returns to the abdominal cavity in the 10th week</strong>, completing a <strong>total 270° rotation</strong>.</div>\n</li>\n</ul>\n\n<h2>Why the other options are wrong</h2>\n<ul>\n<li>\n<div><strong>4th–5th week</strong> → body folding, gut tube formation</div>\n</li>\n<li>\n<div><strong>8th week</strong> → herniation already present, but not the start</div>\n</li>\n<li>\n<div><strong>10th week</strong> → <strong>return</strong> of midgut, not herniation</div>\n</li>\n</ul>\n\n<h2>Classic exam trap</h2>\n<blockquote>\n<div><strong>Herniation = week 6</strong><br>\n<strong>Return = week 10</strong></div>\n</blockquote>\n<h3>Active recall check</h3>\n<div>Failure of midgut return at week 10 causes which condition?<br>\n<strong>Answer:</strong> Omphalocele</div>",
                 "",
                 ""
             ],
@@ -15275,7 +15196,7 @@
                 "Chorion",
                 "B",
                 "<div><strong>Correct answer: B — Yolk sac</strong></div><div style=\"text-align: center; \"><img alt=\"Cvs dev | PPTX\" src=\"Cvs-dev-45-2048.jpg\"><strong><br></strong></div>\n<div><strong>Core idea (must-know):</strong><br>\n<strong>Vitelline arteries supply the yolk sac.</strong></div>\n<div><strong>Mechanism (developmental logic):</strong></div>\n<ul>\n<li>\n<div>Vitelline arteries arise from the <strong>dorsal aortae</strong>.</div>\n</li>\n<li>\n<div>They initially vascularize the <strong>yolk sac</strong>.</div>\n</li>\n<li>\n<div>With gut development, they are incorporated into the embryonic circulation and later form major abdominal arteries (e.g., <strong>celiac, superior mesenteric, inferior mesenteric arteries</strong>).</div>\n</li>\n</ul>\n<div><strong>Why the others are wrong (classic contrasts):</strong></div>\n<ul>\n<li>\n<div><strong>A Placenta:</strong> Supplied by <strong>umbilical arteries</strong>, not vitelline.</div>\n</li>\n<li>\n<div><strong>C Umbilical cord:</strong> Contains <strong>umbilical arteries and vein</strong>.</div>\n</li>\n<li>\n<div><strong>D Amnion:</strong> Avascular.</div>\n</li>\n<li>\n<div><strong>E Chorion:</strong> Part of placental structures, not vitelline-supplied.</div>\n</li>\n</ul>\n<div><strong>Clinical anchor:</strong><br>\nAnomalies in vitelline artery development can affect <strong>midgut blood supply</strong>, explaining later vascular patterns in the adult intestine.</div>\n<div><strong>Quick recall check:</strong><br>\nVitelline → <strong>yolk sac → gut arteries</strong><br>\nUmbilical → <strong>placenta</strong></div>",
-                "",
+                "<div style=\"text-align: center;\"><img src=\"paste-4d2a95110e50d986b308479bdea6583aded27962.jpg\"></div>",
                 ""
             ],
             "guid": "F+ei?>_`33",
@@ -15312,7 +15233,7 @@
             "fields": [
                 "The cells generated by the spermatogonia are:",
                 "Spermatids",
-                "Primary spermatocytes",
+                "Primary spermatids",
                 "Secondary spermatocytes",
                 "Primary spermatocytes",
                 "Sertoli cells",
@@ -15669,7 +15590,7 @@
                 "Trophoblast",
                 "B",
                 "<div><strong>Correct: Mesoderm</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
-                "",
+                "<div style=\"text-align: center;\"><img src=\"paste-3f9abe265f8855d7068e4053a964e21943afd22c.jpg\"></div>",
                 ""
             ],
             "guid": "n5<,TjI=8#",
@@ -15710,7 +15631,7 @@
                 "Lateral plate mesoderm",
                 "Endodermal buds",
                 "A",
-                "<div><strong>Correct: Epithelial somites</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<div><strong>Correct: Epithelial somites</strong></div><div style=\"text-align: center; \"><img alt=\"figure 1\" src=\"12276_2020_482_Fig1_HTML-c776c196bfc756519b947dd14924152eb2efa84a.png\"><strong><br></strong></div><div><h2>WHY this is correct (mechanistic sequence)</h2>\n<ol>\n<li>\n<div><strong>Paraxial mesoderm</strong> segments into <strong>somites</strong></div>\n</li>\n<li>\n<div><strong>Somites are initially epithelial structures</strong></div>\n</li>\n<li>\n<div>Each somite differentiates into:</div>\n<ul>\n<li>\n<div><strong>Sclerotome</strong> → vertebrae &amp; ribs</div>\n</li>\n<li>\n<div><strong>Myotome</strong> → skeletal muscle</div>\n</li>\n<li>\n<div><strong>Dermatome</strong> → dermis</div>\n</li>\n</ul>\n</li>\n</ol>\n<blockquote>\n<div>The <strong>myotome arises directly from the epithelial somite</strong>, before cells migrate and differentiate into muscle fibers.</div>\n</blockquote>\n<div><strong>Key concept:</strong><br>\nThe term <em>myotome</em> refers to a <strong>derivative of the somite</strong>, not a later mesenchymal or neural population.</div>\n\n<h2>WHY the other options are wrong (exam traps)</h2>\n<h3><strong>B. Neural crest cells</strong> ❌</h3>\n<ul>\n<li>\n<div>Form melanocytes, peripheral nerves, adrenal medulla</div>\n</li>\n<li>\n<div><strong>Do NOT form skeletal muscle</strong></div>\n</li>\n</ul>\n<h3><strong>C. Hypoblast derivatives</strong> ❌</h3>\n<ul>\n<li>\n<div>Hypoblast contributes to <strong>extraembryonic endoderm</strong></div>\n</li>\n<li>\n<div>No role in somite or muscle formation</div>\n</li>\n</ul>\n<h3><strong>D. Lateral plate mesoderm</strong> ❌</h3>\n<ul>\n<li>\n<div>Forms:</div>\n<ul>\n<li>\n<div>Body wall</div>\n</li>\n<li>\n<div>Serous membranes</div>\n</li>\n<li>\n<div>Smooth muscle of viscera</div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Not skeletal muscle of trunk</strong></div>\n</li>\n</ul>\n<h3><strong>E. Endodermal buds</strong> ❌</h3>\n<ul>\n<li>\n<div>Give rise to epithelial linings and glands</div>\n</li>\n<li>\n<div><strong>Never muscle</strong></div>\n</li>\n</ul>\n\n<h2>Phase 2 — Active Drill</h2>\n<h3>Rapid discriminator</h3>\n<div>If the question asks about:</div>\n<ul>\n<li>\n<div><strong>Skeletal muscle of trunk/limbs</strong> → think <strong>myotome</strong></div>\n</li>\n<li>\n<div><strong>Myotome</strong> → comes from <strong>somite</strong></div>\n</li>\n<li>\n<div><strong>Somite</strong> → epithelial origin</div>\n</li>\n</ul>\n\n<h3>Feynman probe (one sentence)</h3>\n<div>Why must myotomes come from epithelial somites?</div>\n<blockquote>\n<div>Because somites are the segmented paraxial mesodermal units that specifically give rise to skeletal muscle via their myotome component.</div>\n</blockquote>\n\n<h2>Phase 3 — Anchors (exam-proof)</h2>\n<h3>Absolute rule</h3>\n<blockquote>\n<div><strong>Myotome = muscle-forming part of an epithelial somite (paraxial mesoderm).</strong></div>\n</blockquote>\n<h3>One-line mnemonic</h3>\n<div><strong>“Somite splits: bone, muscle, skin.”</strong></div>\n\n<h3>Common MU-Varna / USMLE trap</h3>\n<ul>\n<li>\n<div>Confusing <strong>lateral plate mesoderm</strong> (smooth muscle, viscera) with <strong>paraxial mesoderm</strong> (skeletal muscle)</div>\n</li></ul></div>",
                 "",
                 ""
             ],
@@ -15852,13 +15773,13 @@
             "__type__": "Note",
             "fields": [
                 "True statements of sperm capacitation:",
-                "\"Takes between 5-6 hours. Takes place and is complete in female genital",
-                "Option related A",
-                "Option related B",
-                "Option related C",
-                "Option related D",
+                "Takes between 5-6 hours, takes place and is complete in the female genital tract, increases flagellum motility, sperm is able to undergo acrosome reaction.",
+                "Takes 1-2 hours, happens in the testis",
+                "Takes 3-4 hours, happens in the epididymis",
+                "Happens only after fertilization",
+                "Takes place in the seminal vesicles",
                 "A",
-                "<div><strong>Correct: \"Takes between 5-6 hours. Takes place and is complete in female genital</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<div><strong>Correct: \"Takes between 5-6 hours. Takes place and is complete in female genital</strong></div><div>Answer kept exactly as provided for MU-Varna key.<br>&nbsp;</div>",
                 "",
                 ""
             ],
@@ -15874,10 +15795,10 @@
             "fields": [
                 "The hypoblast belongs to:",
                 "Trophoblast",
-                "Option related A",
-                "Option related B",
-                "Option related C",
-                "Option related D",
+                "Embryoblast",
+                "Chorion",
+                "Epiblast",
+                " ",
                 "A",
                 "<div><strong>Correct: Trophoblast</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -15941,8 +15862,8 @@
                 "3rd Arch",
                 "4rth Arch",
                 "None of those",
-                "A",
-                "<div><strong>Correct: First pharyngeal arch</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "C",
+                "<div><strong>Correct: 3rd Arch</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
                 ""
             ],
@@ -15959,12 +15880,12 @@
             "fields": [
                 "The formation of the primitive streak occurs on the surface of:",
                 "Hypoblast",
-                "Option related A",
-                "Option related B",
-                "Option related C",
-                "Option related D",
-                "A",
-                "<div><strong>Correct: Hypoblast</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "Epiblast",
+                "Cytotrophoblast",
+                "Syncityotrophoblast",
+                "",
+                "B",
+                "<div><strong>Correct: Epiblast</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
                 ""
             ],
@@ -16006,7 +15927,7 @@
                 "Secretory phase",
                 "Ovulatory phase",
                 "D",
-                "<div><strong>Correct: Secretory phase</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<h2>Correct Answer&nbsp;<strong style=\"font-size: 20px;\">C — Proliferative phase<br><div style=\"text-align: center;\"><img src=\"paste-03419aff06a7998b752f8fcfc2fe402bcc404bf2.jpg\"><br></div></strong></h2>\n\n<h2>WHY (mechanism first)</h2>\n<ul>\n<li>\n<div><strong>Estrogen</strong> (mainly estradiol from developing ovarian follicles) acts on the <strong>endometrium</strong>.</div>\n</li>\n<li>\n<div>Its primary effect is to <strong>stimulate mitosis and regeneration</strong> of the endometrial lining after menstruation.</div>\n</li>\n<li>\n<div>This estrogen-driven rebuilding phase is called the <strong>proliferative phase</strong> of the uterine (endometrial) cycle.</div>\n</li>\n</ul>\n<div>Key estrogen actions:</div>\n<ul>\n<li>\n<div>↑ Endometrial thickness</div>\n</li>\n<li>\n<div>↑ Gland length (straight, narrow glands)</div>\n</li>\n<li>\n<div>↑ Stromal cell proliferation</div>\n</li>\n</ul>\n\n<h2>WHY D is wrong (high-yield trap)</h2>\n<ul>\n<li>\n<div><strong>Secretory phase</strong> is under <strong>progesterone</strong> control, not estrogen.</div>\n</li>\n<li>\n<div>Progesterone is secreted by the <strong>corpus luteum</strong> after ovulation.</div>\n</li>\n<li>\n<div>Its role is to <strong>differentiate</strong>, not proliferate, the endometrium:</div>\n<ul>\n<li>\n<div>Coiled glands</div>\n</li>\n<li>\n<div>Glycogen-rich secretions</div>\n</li>\n<li>\n<div>Preparation for implantation</div>\n</li>\n</ul>\n</li>\n</ul>\n<div>This is a <strong>classic exam trap</strong>.</div>\n\n<h2>Phase–Hormone Mapping (must-know)</h2>\n<ul>\n<li>\n<div><strong>Menstrual phase</strong> → ↓ estrogen &amp; ↓ progesterone</div>\n</li>\n<li>\n<div><strong>Follicular (ovarian)</strong> → estrogen rising</div>\n</li>\n<li>\n<div><strong>Proliferative (uterine)</strong> → <strong>estrogen-dominant</strong></div>\n</li>\n<li>\n<div><strong>Ovulatory</strong> → estrogen peak → LH surge</div>\n</li>\n<li>\n<div><strong>Secretory (uterine)</strong> → <strong>progesterone-dominant</strong></div>\n</li></ul>",
                 "",
                 ""
             ],
@@ -16022,10 +15943,10 @@
             "fields": [
                 "Ejaculation is identical to which process?",
                 "none",
-                "Option related A",
-                "Option related B",
-                "Option related C",
-                "Option related D",
+                "Spermatogenesis",
+                "Capacitation",
+                "Oogenesis",
+                " ",
                 "A",
                 "<div><strong>Correct: none</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16064,10 +15985,10 @@
             "fields": [
                 "The exocoelomic (Heuser) membrane lines the inner surface of:",
                 "Cytotrophoblast",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
+                "Syncytiotrophoblast",
+                "Amnion",
+                "Yolk sac",
+                "",
                 "A",
                 "<div><strong>Correct: Cytotrophoblast</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16127,10 +16048,10 @@
             "fields": [
                 "The rate for dizygotic twins is:",
                 "70% of twins",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
+                "10% of twins",
+                "20% of twins",
+                "50% of twins",
+                "5% of twins",
                 "A",
                 "<div><strong>Correct: 70% of twins</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16148,10 +16069,10 @@
             "fields": [
                 "The layer of the embryoblast adjacent to the amnionic cavity is:",
                 "Epiblast",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
+                "Hypoblast",
+                "Trophoblast",
+                "Cytotrophoblast",
+                "Syncytiotrophoblast",
                 "A",
                 "<div><strong>Correct: Epiblast</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16196,7 +16117,7 @@
                 "Distractor C",
                 "Distractor D",
                 "A",
-                "<div><strong>Correct: Epiblast, lateral to primitive streak</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<div style=\"text-align: center;\"><strong>Correct: Epiblast, lateral to primitive streak</strong></div><div style=\"text-align: center; \"><img src=\"paste-1f3c63ea5bdae87b89b395810a9783359ec40b00.jpg\"><br></div>",
                 "",
                 ""
             ],
@@ -16212,13 +16133,13 @@
             "fields": [
                 "Which is the sequence of appearance of the limb buds?",
                 "Flatten buds =&gt; radial grooves on distal portion of buds =&gt;digits",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
+                "Radial grooves on distal portion of buds =&gt; Flatten buds =&gt; digits",
+                "Flatten buds =&gt; digits =&gt; radial grooves on distal portion of buds",
+                " Radial grooves on distal portion of buds =&gt; digits =&gt; Flatten buds",
+                "Digits =&gt; radial grooves on distal portion of buds =&gt; Flatten buds",
                 "A",
                 "<div><strong>Correct: Flatten buds =&gt; radial grooves on distal portion of buds =&gt;digits</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
-                "",
+                "<div style=\"text-align: center;\"><img alt=\"Limb Development - Clinical GateClinical Gate\" src=\"B9781455727940000103_f010-021-9781455727940.jpg\"></div>",
                 ""
             ],
             "guid": "lp^FXxr)!:",
@@ -16273,48 +16194,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "From which germ layer originates the adenohypophysis?",
-                "Surface Ectoderm",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
-                "A",
-                "<div><strong>Correct: Surface Ectoderm</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
-                "",
-                ""
-            ],
-            "guid": "gZkZ_`bqm;",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "EMBRYOLOGY",
-                "GENQUESTION"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Which of the zona pellucida proteins acts as a receptor for spermatozoa binding?",
-                "ZP3",
-                "Distractor A",
-                "Distractor B",
-                "Distractor C",
-                "Distractor D",
-                "A",
-                "<div><strong>Correct: ZP3</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
-                "",
-                ""
-            ],
-            "guid": "yM0oW:z9H~",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "EMBRYOLOGY",
-                "GENQUESTION"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "The number of the somites at the end of the 5th week of development is?",
                 "42-44",
                 "34–36",
@@ -16342,9 +16221,9 @@
                 "Respiratory epithelium",
                 "Liver and pancreas",
                 "GI epithelium",
-                "None of the following",
+                "All the are correct",
                 "E",
-                "<div><strong>Correct: None of the following</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<div><strong>Correct:All the are correct</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
                 ""
             ],
@@ -16381,11 +16260,11 @@
             "__type__": "Note",
             "fields": [
                 "What is the percentage of sperm in a sample?",
-                "14/94%",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "14%–94%",
+                "50%",
+                " 94%",
+                "4%",
+                "30%",
                 "A",
                 "<div><strong>Correct: 14/94%</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16425,10 +16304,10 @@
             "fields": [
                 "What is the rate of occurrence of abnormal blastocysts?",
                 "20-30%",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "5%–10%",
+                "30%–50%",
+                "50%–70%",
+                "  ",
                 "A",
                 "<div><strong>Correct: 20-30%</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16488,12 +16367,12 @@
             "fields": [
                 "Which of the following tissues is derived from the ectoderm?",
                 "Epidermis skin cells, Neurons of brain, Pigment cells.",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "Liver cells",
+                "Muscle cells",
+                "Red blood cells",
+                "Bone cells",
                 "A",
-                "<div><strong>Correct: Epidermis skin cells, Neurons of brain, Pigment cells.</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<div><strong>Correct: Epidermis skin cells, Neurons of brain, Pigment cells.</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div><div style=\"text-align: center; \"><img alt=\"Introduction to ectoderm\" src=\"germ_layer_derivatives-142F8FE6BDF74E305D3.png\"><br></div>",
                 "",
                 ""
             ],
@@ -16553,12 +16432,12 @@
             "fields": [
                 "Which structure is formed at the dorsal border (tip) of the neural tube?",
                 "Spinal Cord",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
-                "A",
-                "<div><strong>Correct: Spinal Cord</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "Cerebellum",
+                "Neural crest",
+                "Brainstem",
+                "",
+                "C",
+                "<h3><strong>True correct answer:</strong> <strong>C. Neural crest</strong></h3>\n<div>(<strong>A. Spinal cord is incorrect</strong>)</div>\n<div><div><div><img alt=\"https://upload.wikimedia.org/wikipedia/commons/0/0f/2912_Neurulation-02.jpg\" src=\"2912_Neurulation-02.jpg\"></div></div><div><div><img alt=\"https://www.researchgate.net/publication/282411000/figure/fig2/AS%3A735894902423561%401552462425503/Neural-crest-cells-epithelial-mesenchymal-transition-delamination-migration-concept.png\" src=\"Neural-crest-cells-epithelial-mesenchymal-transition-delamination-migration-concept.png\"></div></div><div><div><img alt=\"https://www.researchgate.net/publication/333674923/figure/fig1/AS%3A851878778773504%401580115136090/Neural-tube-closure-and-patterning-A-Dorsal-views-of-forming-neural-tube-in-the.jpg\" src=\"Neural-tube-closure-and-patterning-A-Dorsal-views-of-forming-neural-tube-in-the.jpg\"></div></div></div>\n\n<h2>Phase 1 — Core (WHY first)</h2>\n<h3>What happens at the <strong>dorsal border of the neural tube</strong></h3>\n<ul>\n<li>\n<div>During <strong>neurulation</strong>, the neural plate folds and closes → <strong>neural tube</strong></div>\n</li>\n<li>\n<div>At the <strong>dorsal-most tip (roof plate)</strong>:</div>\n<ul>\n<li>\n<div>Specialized cells <strong>delaminate</strong></div>\n</li>\n<li>\n<div>These cells become <strong>neural crest cells</strong></div>\n</li>\n</ul>\n</li>\n<li>\n<div>Neural crest cells then <strong>migrate extensively</strong> and form multiple structures</div>\n</li>\n</ul>\n<blockquote>\n<div><strong>Key mechanism:</strong><br>\n<strong>Dorsal border = site of neural crest cell emergence</strong>, not spinal cord differentiation.</div>\n</blockquote>\n\n<h2>Why <strong>A. Spinal cord</strong> is wrong</h2>\n<ul>\n<li>\n<div>The <strong>spinal cord</strong> is formed from the <strong>entire neural tube</strong>, especially its <strong>ventral and central regions</strong></div>\n</li>\n<li>\n<div>It is <strong>not a structure formed specifically at the dorsal border</strong></div>\n</li>\n<li>\n<div>The dorsal border produces a <strong>separating cell population</strong> (neural crest), not CNS tissue</div>\n</li>\n</ul>\n\n<h2>Option-by-option autopsy</h2>\n<h3><strong>A. Spinal cord</strong> ❌</h3>\n<ul>\n<li>\n<div>CNS derivative of the <strong>neural tube as a whole</strong></div>\n</li>\n<li>\n<div>Not a “border-specific” structure</div>\n</li>\n</ul>\n<h3><strong>B. Cerebellum</strong> ❌</h3>\n<ul>\n<li>\n<div>Derived from <strong>metencephalon</strong> (hindbrain)</div>\n</li>\n<li>\n<div>Not dorsal border–specific</div>\n</li>\n</ul>\n<h3><strong>C. Neural crest</strong> ✅ <strong>CORRECT</strong></h3>\n<ul>\n<li>\n<div>Forms <strong>exactly at the dorsal border</strong></div>\n</li>\n<li>\n<div>Cells detach and migrate</div>\n</li>\n</ul>\n<h3><strong>D. Brainstem</strong> ❌</h3>\n<ul>\n<li>\n<div>From <strong>midbrain + hindbrain</strong></div>\n</li>\n<li>\n<div>Internal neural tube derivative</div>\n</li>\n</ul>\n\n<h2>Phase 2 — Active Drill</h2>\n<h3>One-step discriminator (exam-safe)</h3>\n<div>If the stem says:</div>\n<ul>\n<li>\n<div><strong>“Dorsal border / tip / roof plate”</strong> → <strong>Neural crest</strong></div>\n</li>\n<li>\n<div><strong>“Neural tube derivative” (general)</strong> → brain, spinal cord</div>\n</li>\n</ul>\n\n<h3>Feynman probe</h3>\n<div>Why can neural crest not be considered part of the neural tube?</div>\n<blockquote>\n<div>Because neural crest cells detach from the dorsal neural tube and migrate, whereas the neural tube itself forms the CNS.</div>\n</blockquote>\n\n<h2>Phase 3 — Anchors (lock this)</h2>\n<h3>Absolute rule</h3>\n<blockquote>\n<div><strong>Dorsal border of neural tube → Neural crest cells</strong></div>\n</blockquote>\n<h3>High-yield mnemonic</h3>\n<div><strong>“Dorsal = Depart”</strong><br>\n(neural crest cells <strong>depart</strong> from the dorsal tube)</div>",
                 "",
                 ""
             ],
@@ -16616,10 +16495,10 @@
             "fields": [
                 "Which requirements of the semen must be met for sperm motility?",
                 "Increased flagellum motility; high number of mitochondria",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "Increased tail length and low mitochondria count",
+                "High concentration of fructose",
+                "Low viscosity of seminal fluid",
+                "",
                 "A",
                 "<div><strong>Correct: Increased flagellum motility; high number of mitochondria</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16638,12 +16517,12 @@
             "fields": [
                 "DNA synthesis occurs during which phase of the cell cycle?",
                 "S-Phase",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "G1 phase",
+                "G2 phase",
+                "M phase",
+                " ",
                 "A",
-                "<div><strong>Correct: S-Phase</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
+                "<h3><strong>Correct answer:</strong> <strong>A. S-phase</strong></h3>\n<div><div><div><img alt=\"https://i1.wp.com/cms.jackwestin.com/wp-content/uploads/2020/02/Cell-cycle-.jpg?resize=922%2C796&amp;ssl=1\" src=\"Cell-cycle-.jpg\"></div></div><div><div><img alt=\"https://d20khd7ddkh5ls.cloudfront.net/cell_cycle_s_phase_haploid_diploid_cells1.jpg\" src=\"cell_cycle_s_phase_haploid_diploid_cells1.jpg\"></div></div><div><div><img alt=\"https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2318/2016/05/06162524/CellCycleCheckpoints.png\" src=\"CellCycleCheckpoints.png\"></div></div></div>\n\n<h2>Phase 1 — Core (WHY first)</h2>\n<h3>WHY DNA synthesis must occur in <strong>S-phase</strong></h3>\n<ul>\n<li>\n<div>The cell cycle is ordered: <strong>G1 → S → G2 → M</strong></div>\n</li>\n<li>\n<div><strong>S (Synthesis) phase</strong> is dedicated to:</div>\n<ul>\n<li>\n<div><strong>DNA replication</strong></div>\n</li>\n<li>\n<div>Histone synthesis</div>\n</li>\n<li>\n<div>Centrosome duplication (begins)</div>\n</li>\n</ul>\n</li>\n<li>\n<div>Replication requires a stable nuclear environment, not mitosis.</div>\n</li>\n</ul>\n<blockquote>\n<div><strong>Replication = S-phase by definition and by necessity.</strong></div>\n</blockquote>\n\n<h2>WHY the other options are wrong (fast discrimination)</h2>\n<ul>\n<li>\n<div><strong>B. G1 phase</strong> ❌<br>\nCell growth, RNA/protein synthesis, <strong>no DNA replication</strong>.</div>\n</li>\n<li>\n<div><strong>C. G2 phase</strong> ❌<br>\nPreparation for mitosis, DNA damage check, <strong>no replication</strong>.</div>\n</li>\n<li>\n<div><strong>D. M phase</strong> ❌<br>\nChromosome segregation and cytokinesis, <strong>replication already completed</strong>.</div>\n</li>\n</ul>\n\n<h2>Phase 2 — Active Drill</h2>\n<h3>5-second classifier</h3>\n<div>If the stem mentions:</div>\n<ul>\n<li>\n<div><strong>BrdU incorporation</strong> → <strong>S-phase</strong></div>\n</li>\n<li>\n<div><strong>DNA polymerase activity</strong> → <strong>S-phase</strong></div>\n</li>\n<li>\n<div><strong>Checkpoint before mitosis</strong> → <strong>G2</strong></div>\n</li>\n</ul>\n\n<h3>Feynman probe</h3>\n<div>Why would DNA replication during M phase be catastrophic?</div>\n<blockquote>\n<div>Because chromosomes are condensed and being segregated, making replication impossible and error-prone.</div>\n</blockquote>\n\n<h2>Phase 3 — Anchors</h2>\n<h3>One-line rule</h3>\n<blockquote>\n<div><strong>S = Synthesis of DNA.</strong></div>\n</blockquote>\n<h3>High-yield association</h3>\n<ul>\n<li>\n<div><strong>Cyclin A–CDK2</strong> active in <strong>S-phase</strong></div>\n</li>\n<li>\n<div><strong>p53</strong> halts cycle before S if DNA is damaged</div>\n</li></ul>",
                 "",
                 ""
             ],
@@ -16680,10 +16559,10 @@
             "fields": [
                 "Which of the following is NOT true? The cytosol (cellular matrix):",
                 "Contains only ions and small proteins",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "The cytosol contains ions and small proteins",
+                "The cytosol is the site of many metabolic reactions",
+                "The cytosol acts as a medium for intracellular transport",
+                " ",
                 "A",
                 "<div><strong>Correct: Contains only ions and small proteins</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16741,34 +16620,12 @@
         {
             "__type__": "Note",
             "fields": [
-                "Which statement is true: intermediate filaments:",
-                "Have a wall composed of 13 protofilament strands",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
-                "A",
-                "<div><strong>Correct: Have a wall composed of 13 protofilament strands</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
-                "",
-                ""
-            ],
-            "guid": "MiyZ#ovrKT",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "CYTOLOGY",
-                "cytoskeleton",
-                "GENQUESTION"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Which of the statements is true: Ca2+ release form the ER takes place via:",
                 "Ryanodine receptor",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "Sacroendoplasmic reticulum Ca2+ ATPase (SECRA)",
+                "Na/Ca pump",
+                "Voltage-sensitive ca2+ channels",
+                "Dihydrophydridine receptor",
                 "A",
                 "<div><strong>Correct: Ryanodine receptor</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -16828,8 +16685,8 @@
             "fields": [
                 "All of the following are true except: tissues grow in size because of the following process:",
                 "Ribosomes are composed of 2 identical subunits",
-                "Option B",
-                "Option C",
+                "Hypertrophy",
+                "Hyperplasia",
                 "Option D",
                 "Option E",
                 "A",
@@ -16849,10 +16706,10 @@
             "fields": [
                 "Which is NOT normally present in cytosol (cellular matrix)?",
                 "HG2+",
-                "Option B",
-                "Option C",
-                "Option D",
-                "Option E",
+                "K⁺ ions",
+                "ATP",
+                "HCO<sup>3-</sup>",
+                "HPO<sub>4</sub><sup>2-</sup>",
                 "A",
                 "<div><strong>Correct: HG2+</strong></div><div>Answer kept exactly as provided for MU-Varna key.</div>",
                 "",
@@ -17685,27 +17542,6 @@
                 ""
             ],
             "guid": "gGcWIiO&&N",
-            "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
-            "tags": [
-                "CYTOLOGY",
-                "SAMPLETEST"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the shape of the nucleus of a neutrophilic myelocyte -??",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "h[RfX~ZAS/",
             "note_model_uuid": "7f63555e-ee2e-11f0-b680-7bf14732b550",
             "tags": [
                 "CYTOLOGY",
